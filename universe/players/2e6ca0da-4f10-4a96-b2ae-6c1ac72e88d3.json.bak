@@ -1,0 +1,693 @@
+{
+  "Components": {
+    "Nameplate": {
+      "Text": "CubeTime"
+    },
+    "EffectController": {},
+    "ObjectiveHistory": {
+      "ObjectiveHistory": {},
+      "ObjectiveLineHistory": {}
+    },
+    "DisplayName": {
+      "DisplayName": {
+        "RawText": "CubeTime",
+        "Bold": null,
+        "Italic": null,
+        "Monospace": null,
+        "Underline": null
+      }
+    },
+    "UIComponentList": {},
+    "Transform": {
+      "Position": {
+        "X": 160.22108459472656,
+        "Y": 148.00010681152344,
+        "Z": 496.7434387207031
+      },
+      "Rotation": {
+        "Pitch": 0.0,
+        "Yaw": -83.24856567382812,
+        "Roll": 0.0
+      }
+    },
+    "PlayerMemories": {
+      "Capacity": 48,
+      "Memories": []
+    },
+    "BuilderTools": {
+      "SelectionHistory": true
+    },
+    "Velocity": {
+      "Velocity": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    },
+    "Player": {
+      "Version": 5,
+      "UUID": {
+        "$binary": "Lmyg2k8QSpayrmwaxy6I0w==",
+        "$type": "04"
+      },
+      "Inventory": {
+        "Version": 4,
+        "Storage": {
+          "Id": "Simple",
+          "Capacity": 36,
+          "Items": {
+            "0": {
+              "Id": "Rock_Chalk_Brick_Beam",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "33": {
+              "Id": "Furniture_Human_Ruins_Torch",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "29": {
+              "Id": "Wood_Deadwood_Planks_Half",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "25": {
+              "Id": "Furniture_Village_Sign",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "Deco_Inkwell",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "12": {
+              "Id": "Furniture_Human_Ruins_Bookshelf",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "13": {
+              "Id": "EditorTool_Sculpt",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "8": {
+              "Id": "Furniture_Ancient_Sign",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "9": {
+              "Id": "Wood_Lightwood_Roof_Hollow",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "30": {
+              "Id": "Rock_Marble_Brick_Pillar_Middle",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "28": {
+              "Id": "Rock_Chalk_Brick_Half",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "24": {
+              "Id": "Furniture_Temple_Light_Lantern",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "18": {
+              "Id": "Wood_Blackwood_Planks",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "26": {
+              "Id": "Fluid_Water",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "16": {
+              "Id": "Plant_Vine_Green_Hanging",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "17": {
+              "Id": "Rock_Stone_Brick_Smooth_Half",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "19": {
+              "Id": "Furniture_Temple_Light_Window",
+              "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "23": {
+              "Id": "Deco_Trork_Cage",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "22": {
+              "Id": "Furniture_Temple_Wind_Pot",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "21": {
+              "Id": "Plant_Vine_Wall_Winter",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "35": {
+              "Id": "Furniture_Crude_Candle",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "Furniture_Temple_Light_Window",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "27": {
+              "Id": "Furniture_Outlander_Banner",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "6": {
+              "Id": "Furniture_Temple_Light_Table",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "15": {
+              "Id": "Wood_Oak_Branch_Corner",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "14": {
+              "Id": "Furniture_Crude_Chest_Large",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "10": {
+              "Id": "Cloth_Block_Wool_Red",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "11": {
+              "Id": "EditorTool_Layers",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "31": {
+              "Id": "Furniture_Desert_Shelf",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "32": {
+              "Id": "Rock_Marble_Brick_Roof",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Soil_Grass_Sunny",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Furniture_Temple_Light_Platform",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "34": {
+              "Id": "Wood_Spiral_Branch_Long",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "7": {
+              "Id": "Furniture_Desert_Sign",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "Furniture_Temple_Light_Wardrobe",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Armor": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {}
+        },
+        "HotBar": {
+          "Id": "Simple",
+          "Capacity": 9,
+          "Items": {
+            "0": {
+              "Id": "Wood_Deadwood_Stairs",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "Furniture_Human_Ruins_Door",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "6": {
+              "Id": "Furniture_Village_Platform",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "Furniture_Temple_Wind_Chandelier",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "8": {
+              "Id": "Furniture_Crude_Chest_Small",
+              "Quantity": 10,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Furniture_Ancient_Shelf",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Furniture_Temple_Dark_Door",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "7": {
+              "Id": "Furniture_Village_Wardrobe",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "Rock_Chalk_Brick",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Utility": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {
+            "0": {
+              "Id": "Furniture_Crude_Candle",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Backpack": {
+          "Id": "Empty"
+        },
+        "ActiveHotbarSlot": 4,
+        "Tool": {
+          "Id": "Simple",
+          "Capacity": 23,
+          "Items": {
+            "0": {
+              "Id": "EditorTool_Paint",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "EditorTool_Selection",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "EditorTool_Line",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "EditorTool_Sculpt",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "EditorTool_Paste",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "EditorTool_Layers",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "ActiveToolsSlot": -1,
+        "ActiveUtilitySlot": 0,
+        "SortType": "Name"
+      },
+      "PlayerData": {
+        "BlockIdVersion": 11,
+        "World": "default",
+        "KnownRecipes": [
+          "Food_Pie_Pumpkin"
+        ],
+        "PerWorldData": {
+          "default": {
+            "LastPosition": {
+              "X": 168.76051330566406,
+              "Y": 162.70477294921875,
+              "Z": 503.50982666015625,
+              "Pitch": -1.5520464181900024,
+              "Yaw": -1.8928046226501465,
+              "Roll": 0.0
+            },
+            "LastMovementStates": {
+              "Flying": true
+            },
+            "FirstSpawn": false,
+            "RespawnPoints": [],
+            "DeathPositions": [
+              {
+                "MarkerId": "death-marker-f8873a35-fe93-4a39-ba16-f8e285c572ec",
+                "Transform": {
+                  "X": 546.3596801757812,
+                  "Y": 121.0,
+                  "Z": 453.1610412597656,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 16
+              },
+              {
+                "MarkerId": "death-marker-cc11b4a6-e03c-4b11-b97c-a930c4b3ecbf",
+                "Transform": {
+                  "X": -9.394224166870117,
+                  "Y": -38.14446258544922,
+                  "Z": 118.841552734375,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 16
+              }
+            ]
+          },
+          "scratchpad": {
+            "LastPosition": {
+              "X": -20.48767852783203,
+              "Y": 65.81594848632812,
+              "Z": -10.951330184936523,
+              "Pitch": -1.0305466651916504,
+              "Yaw": -2.3366143703460693,
+              "Roll": 0.0
+            },
+            "LastMovementStates": {
+              "Flying": true
+            },
+            "FirstSpawn": false,
+            "DeathPositions": []
+          }
+        },
+        "DiscoveredZones": [
+          "Zone1_Shallow_Ocean",
+          "Oceans",
+          "Zone1_Temple",
+          "Zone2_Shallow_Ocean",
+          "Zone1_Tier1",
+          "Zone1_Tier2",
+          "Zone1_Spawn",
+          "Zone1_Shore",
+          "Zone1_Tier3"
+        ],
+        "DiscoveredInstances": [],
+        "ReputationData": {},
+        "ActiveObjectiveUUIDs": []
+      },
+      "BlockPlacementOverride": false,
+      "HotbarManager": {
+        "SavedHotbars": [
+          {
+            "Id": "Simple",
+            "Capacity": 9,
+            "Items": {
+              "0": {
+                "Id": "Wood_Deadwood_Stairs",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "1": {
+                "Id": "Furniture_Ancient_Shelf",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "3": {
+                "Id": "Furniture_Temple_Dark_Door",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "2": {
+                "Id": "Furniture_Human_Ruins_Door",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "7": {
+                "Id": "Furniture_Village_Wardrobe",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "6": {
+                "Id": "Furniture_Village_Platform",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "4": {
+                "Id": "Furniture_Temple_Wind_Chandelier",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "5": {
+                "Id": "Rock_Chalk_Brick",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "8": {
+                "Id": "Furniture_Crude_Chest_Small",
+                "Quantity": 10,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CurrentHotbar": 0
+      },
+      "GameMode": "Creative"
+    },
+    "Invulnerable": {},
+    "HitboxCollision": {
+      "HitboxCollisionConfigIndex": 1
+    },
+    "UniqueItemUsages": {
+      "UniqueItemUsed": []
+    },
+    "Instance": {},
+    "UUID": {
+      "UUID": {
+        "$binary": "Lmyg2k8QSpayrmwaxy6I0w==",
+        "$type": "04"
+      }
+    },
+    "EntityStats": {
+      "Version": 5,
+      "Stats": {
+        "Oxygen": {
+          "Id": "Oxygen",
+          "Value": 100.0
+        },
+        "Mana": {
+          "Id": "Mana",
+          "Value": 0.0
+        },
+        "Health": {
+          "Id": "Health",
+          "Value": 100.0
+        },
+        "GlidingActive": {
+          "Id": "GlidingActive",
+          "Value": 0.0
+        },
+        "Immunity": {
+          "Id": "Immunity",
+          "Value": 0.0
+        },
+        "SignatureCharges": {
+          "Id": "SignatureCharges",
+          "Value": 0.0
+        },
+        "Stamina": {
+          "Id": "Stamina",
+          "Value": 10.0
+        },
+        "Ammo": {
+          "Id": "Ammo",
+          "Value": 0.0
+        },
+        "Unknown": {
+          "Id": "Unknown",
+          "Value": 0.0
+        },
+        "SignatureEnergy": {
+          "Id": "SignatureEnergy",
+          "Value": 0.0
+        },
+        "DeployablePreview": {
+          "Id": "DeployablePreview",
+          "Value": 0.0
+        },
+        "StaminaRegenDelay": {
+          "Id": "StaminaRegenDelay",
+          "Value": 0.0
+        },
+        "MagicCharges": {
+          "Id": "MagicCharges",
+          "Value": 0.0
+        }
+      }
+    },
+    "HeadRotation": {
+      "Rotation": {
+        "Pitch": -0.054453760385513306,
+        "Yaw": -2.315805435180664,
+        "Roll": 0.0
+      }
+    }
+  }
+}

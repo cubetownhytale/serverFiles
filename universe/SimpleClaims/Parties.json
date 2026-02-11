@@ -1,0 +1,756 @@
+{
+  "Parties": [
+    {
+      "Id": "05950a9d-a64f-42d8-8614-41e32c2ab68c",
+      "Owner": "e6db98f3-8fd7-42af-9838-dc27e53fef09",
+      "Name": "sally's Party",
+      "Description": "sally's Party Description",
+      "Color": -1769728,
+      "Members": [
+        "e6db98f3-8fd7-42af-9838-dc27e53fef09"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "e6db98f3-8fd7-42af-9838-dc27e53fef09",
+        "UserName": "sally",
+        "Date": "2026-01-16T17:03:17.845106200"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "e6db98f3-8fd7-42af-9838-dc27e53fef09",
+        "UserName": "sally",
+        "Date": "2026-01-16T17:03:17.845919200"
+      }
+    },
+    {
+      "Id": "d1cad981-86b0-4a58-b4f8-b9a6530efd3c",
+      "Owner": "72adb305-eac0-4609-b85a-4625f462bcff",
+      "Name": "MrKlinkOG's Party",
+      "Description": "MrKlinkOG's Party Description",
+      "Color": -16711843,
+      "Members": [
+        "72adb305-eac0-4609-b85a-4625f462bcff"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "72adb305-eac0-4609-b85a-4625f462bcff",
+        "UserName": "MrKlinkOG",
+        "Date": "2026-01-16T01:49:52.608773200"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "72adb305-eac0-4609-b85a-4625f462bcff",
+        "UserName": "MrKlinkOG",
+        "Date": "2026-01-16T01:49:52.611783"
+      }
+    },
+    {
+      "Id": "07a397a2-36c9-4a5f-93a8-f10a6635f7e6",
+      "Owner": "99c1a64a-9d04-433c-97fb-8058a45b82d9",
+      "Name": "zeebdb's Party",
+      "Description": "bababooey",
+      "Color": -13369344,
+      "Members": [
+        "99c1a64a-9d04-433c-97fb-8058a45b82d9"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "true"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "99c1a64a-9d04-433c-97fb-8058a45b82d9",
+        "UserName": "zeebdb",
+        "Date": "2026-01-16T11:11:49.242570300"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "99c1a64a-9d04-433c-97fb-8058a45b82d9",
+        "UserName": "zeebdb",
+        "Date": "2026-01-16T11:11:49.243568100"
+      }
+    },
+    {
+      "Id": "f7f80e10-37c6-4976-8ca0-b3fbb083454d",
+      "Owner": "ff395293-b7e2-4fed-8ec8-4512b2b25ec4",
+      "Name": "papisanti's Party",
+      "Description": "papisanti's Party Description",
+      "Color": -16755201,
+      "Members": [
+        "ff395293-b7e2-4fed-8ec8-4512b2b25ec4"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "ff395293-b7e2-4fed-8ec8-4512b2b25ec4",
+        "UserName": "papisanti",
+        "Date": "2026-01-14T20:00:13.392558700"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "ff395293-b7e2-4fed-8ec8-4512b2b25ec4",
+        "UserName": "papisanti",
+        "Date": "2026-01-14T20:00:13.392558700"
+      }
+    },
+    {
+      "Id": "be925503-8ab1-46b9-91a9-1a1bef289411",
+      "Owner": "32d52203-7784-4568-87a1-5bd5bcd46c47",
+      "Name": "BitingDOG's Party",
+      "Description": "BitingDOG's Party Description",
+      "Color": -65024,
+      "Members": [
+        "32d52203-7784-4568-87a1-5bd5bcd46c47"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "32d52203-7784-4568-87a1-5bd5bcd46c47",
+        "UserName": "BitingDOG",
+        "Date": "2026-01-14T18:29:41.351288300"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "32d52203-7784-4568-87a1-5bd5bcd46c47",
+        "UserName": "BitingDOG",
+        "Date": "2026-01-14T18:29:41.351288300"
+      }
+    },
+    {
+      "Id": "cd3addbf-fd2e-4194-bf94-92a80260a794",
+      "Owner": "f4a4b82c-137a-4e22-a3ec-27399c9b6930",
+      "Name": "ShinRamen's Party",
+      "Description": "ShinRamen's Party Description",
+      "Color": -512,
+      "Members": [
+        "f4a4b82c-137a-4e22-a3ec-27399c9b6930"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "f4a4b82c-137a-4e22-a3ec-27399c9b6930",
+        "UserName": "ShinRamen",
+        "Date": "2026-01-16T01:01:13.678138100"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "f4a4b82c-137a-4e22-a3ec-27399c9b6930",
+        "UserName": "ShinRamen",
+        "Date": "2026-01-16T01:01:13.679150800"
+      }
+    },
+    {
+      "Id": "aa23d86c-1fb5-4645-a172-3bd6f4af2bc9",
+      "Owner": "672e3b63-fe1a-41c3-a983-1aecb18c26c0",
+      "Name": "TowerFoundation",
+      "Description": "We are building the tower of god.",
+      "Color": -4787,
+      "Members": [
+        "672e3b63-fe1a-41c3-a983-1aecb18c26c0"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "128"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "672e3b63-fe1a-41c3-a983-1aecb18c26c0",
+        "UserName": "WovenSun618",
+        "Date": "2026-01-14T13:03:52.069190"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "672e3b63-fe1a-41c3-a983-1aecb18c26c0",
+        "UserName": "WovenSun618",
+        "Date": "2026-01-14T13:03:52.069190"
+      }
+    },
+    {
+      "Id": "74d190ca-add4-4e10-b2f8-c12398660c73",
+      "Owner": "4ffbd838-f922-4e51-a0fb-55000bdc3d5c",
+      "Name": "The honored o",
+      "Description": "Ye",
+      "Color": -1,
+      "Members": [
+        "4ffbd838-f922-4e51-a0fb-55000bdc3d5c"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "4ffbd838-f922-4e51-a0fb-55000bdc3d5c",
+        "UserName": "Ra3Z",
+        "Date": "2026-01-15T23:56:09.611421300"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "4ffbd838-f922-4e51-a0fb-55000bdc3d5c",
+        "UserName": "Ra3Z",
+        "Date": "2026-01-15T23:56:09.611421300"
+      }
+    },
+    {
+      "Id": "0a1880b4-5dec-45c0-974b-a90da03534b9",
+      "Owner": "35a93adc-34e9-4347-81ae-36cbc9f6ee5a",
+      "Name": "sammerham's Party",
+      "Description": "sammerham's Party Description",
+      "Color": -16711712,
+      "Members": [
+        "35a93adc-34e9-4347-81ae-36cbc9f6ee5a"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "35a93adc-34e9-4347-81ae-36cbc9f6ee5a",
+        "UserName": "sammerham",
+        "Date": "2026-01-23T01:06:32.637951600"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "35a93adc-34e9-4347-81ae-36cbc9f6ee5a",
+        "UserName": "sammerham",
+        "Date": "2026-01-23T01:06:32.638960800"
+      }
+    },
+    {
+      "Id": "65569f8c-95dd-477c-a93c-04760229a194",
+      "Owner": "648794f6-efad-45eb-9b58-b7a4ef841937",
+      "Name": "Raper67's Party",
+      "Description": "Raper67's Party Description",
+      "Color": -65381,
+      "Members": [
+        "648794f6-efad-45eb-9b58-b7a4ef841937",
+        "2e66436d-fb05-4af8-90b5-68f3071a1ab2"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "648794f6-efad-45eb-9b58-b7a4ef841937",
+        "UserName": "Raper67",
+        "Date": "2026-01-16T00:02:56.920732500"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "648794f6-efad-45eb-9b58-b7a4ef841937",
+        "UserName": "Raper67",
+        "Date": "2026-01-16T00:02:56.920732500"
+      }
+    },
+    {
+      "Id": "0b8ecc17-4bd0-4bea-a876-5679d82eb0c6",
+      "Owner": "16e0006a-dbde-43c9-9225-745f2b054606",
+      "Name": "Klight_101's Party",
+      "Description": "Klight_101's Party Description",
+      "Color": -65517,
+      "Members": [
+        "16e0006a-dbde-43c9-9225-745f2b054606"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "16e0006a-dbde-43c9-9225-745f2b054606",
+        "UserName": "Klight_101",
+        "Date": "2026-01-14T17:32:28.926364"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "16e0006a-dbde-43c9-9225-745f2b054606",
+        "UserName": "Klight_101",
+        "Date": "2026-01-14T17:32:28.926364"
+      }
+    },
+    {
+      "Id": "bc42825b-d02e-44ed-a57d-19e50099358f",
+      "Owner": "32cb194f-39e8-43cd-b99f-eb3de9f1cd84",
+      "Name": "ImJustCookie's Party",
+      "Description": "ImJustCookie's Party Description",
+      "Color": -23808,
+      "Members": [
+        "32cb194f-39e8-43cd-b99f-eb3de9f1cd84"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "32cb194f-39e8-43cd-b99f-eb3de9f1cd84",
+        "UserName": "ImJustCookie",
+        "Date": "2026-01-14T11:19:46.082955700"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "32cb194f-39e8-43cd-b99f-eb3de9f1cd84",
+        "UserName": "ImJustCookie",
+        "Date": "2026-01-14T11:19:46.082955700"
+      }
+    },
+    {
+      "Id": "56cbabb0-bc71-48a2-b8b2-b12d95136e5f",
+      "Owner": "111c5fee-1a25-47b8-9e12-7aa2db0e66b7",
+      "Name": "Casper's Party",
+      "Description": "Casper's Party Description",
+      "Color": -16712705,
+      "Members": [
+        "111c5fee-1a25-47b8-9e12-7aa2db0e66b7"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "111c5fee-1a25-47b8-9e12-7aa2db0e66b7",
+        "UserName": "Casper",
+        "Date": "2026-01-15T23:24:17.430707100"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "111c5fee-1a25-47b8-9e12-7aa2db0e66b7",
+        "UserName": "Casper",
+        "Date": "2026-01-15T23:24:17.431261500"
+      }
+    },
+    {
+      "Id": "2ebbddf3-7f9f-4c40-95e5-db77734741cc",
+      "Owner": "e729df14-b9d6-42be-bd07-9c554bec6a0d",
+      "Name": "SoulReaper'",
+      "Description": "SR Party",
+      "Color": -11271421,
+      "Members": [
+        "e729df14-b9d6-42be-bd07-9c554bec6a0d"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "true"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "true"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "true"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "e729df14-b9d6-42be-bd07-9c554bec6a0d",
+        "UserName": "SoulReaper_",
+        "Date": "2026-01-17T20:34:05.320738500"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "e729df14-b9d6-42be-bd07-9c554bec6a0d",
+        "UserName": "SoulReaper_",
+        "Date": "2026-01-17T20:34:05.321756600"
+      }
+    },
+    {
+      "Id": "91167adf-4fd5-4da7-8673-c6cc32d73f8f",
+      "Owner": "2e6ca0da-4f10-4a96-b2ae-6c1ac72e88d3",
+      "Name": "CubeTime's Party",
+      "Description": "CubeTime's Party Description",
+      "Color": -65322,
+      "Members": [
+        "2e6ca0da-4f10-4a96-b2ae-6c1ac72e88d3",
+        "9ae9592f-f831-4698-a8b4-7f232e3031f8"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "true"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "2e6ca0da-4f10-4a96-b2ae-6c1ac72e88d3",
+        "UserName": "CubeTime",
+        "Date": "2026-01-14T06:12:06.120053600"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "2e6ca0da-4f10-4a96-b2ae-6c1ac72e88d3",
+        "UserName": "CubeTime",
+        "Date": "2026-01-14T06:12:06.120053600"
+      }
+    }
+  ]
+}

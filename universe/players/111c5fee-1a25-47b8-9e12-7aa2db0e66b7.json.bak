@@ -1,0 +1,534 @@
+{
+  "Components": {
+    "Nameplate": {
+      "Text": "Casper"
+    },
+    "EffectController": {},
+    "ObjectiveHistory": {
+      "ObjectiveHistory": {},
+      "ObjectiveLineHistory": {}
+    },
+    "DisplayName": {
+      "DisplayName": {
+        "RawText": "Casper",
+        "Bold": null,
+        "Italic": null,
+        "Monospace": null,
+        "Underline": null
+      }
+    },
+    "UIComponentList": {},
+    "Transform": {
+      "Position": {
+        "X": -107.64733123779297,
+        "Y": 135.0,
+        "Z": 1086.064697265625
+      },
+      "Rotation": {
+        "Pitch": 0.0,
+        "Yaw": 4.577686786651611,
+        "Roll": 0.0
+      }
+    },
+    "PlayerMemories": {
+      "Capacity": 48,
+      "Memories": [
+        {
+          "Id": "NPC",
+          "NPCRole": "Pike",
+          "TranslationKey": "server.npcRoles.Pike.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768515455497,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Skeleton_Sand_Guard",
+          "TranslationKey": "server.npcRoles.Skeleton_Sand_Guard.name",
+          "IsMemoriesNameOverridden": true,
+          "CapturedTimestamp": 1768516633364,
+          "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Skeleton_Sand_Archer",
+          "TranslationKey": "server.npcRoles.Skeleton_Sand_Archer.name",
+          "IsMemoriesNameOverridden": true,
+          "CapturedTimestamp": 1768516689366,
+          "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Warthog",
+          "TranslationKey": "server.npcRoles.Warthog.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768574693683,
+          "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Warthog_Piglet",
+          "TranslationKey": "server.npcRoles.Warthog_Piglet.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768574693781,
+          "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Gecko",
+          "TranslationKey": "server.npcRoles.Gecko.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768574704233,
+          "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Woodpecker",
+          "TranslationKey": "server.npcRoles.Woodpecker.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768594611946,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        }
+      ]
+    },
+    "BuilderTools": {
+      "SelectionHistory": true
+    },
+    "Velocity": {
+      "Velocity": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    },
+    "Player": {
+      "Version": 5,
+      "UUID": {
+        "$binary": "ERxf7holR7ieEnqi2w5mtw==",
+        "$type": "04"
+      },
+      "Inventory": {
+        "Version": 4,
+        "Storage": {
+          "Id": "Simple",
+          "Capacity": 36,
+          "Items": {
+            "0": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "Wood_Hardwood_Stairs",
+              "Quantity": 69,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "6": {
+              "Id": "Rubble_Stone",
+              "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "Wood_Oak_Trunk",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "13": {
+              "Id": "Wood_Oak_Trunk",
+              "Quantity": 51,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "8": {
+              "Id": "Rock_Stone_Brick_Decorative",
+              "Quantity": 11,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "9": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 76,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "11": {
+              "Id": "Wood_Oak_Trunk",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "10": {
+              "Id": "Wood_Hardwood_Planks_Half",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Ingredient_Tree_Sap",
+              "Quantity": 70,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Ingredient_Fibre",
+              "Quantity": 25,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "7": {
+              "Id": "Ingredient_Bone_Fragment",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Armor": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {
+            "1": {
+              "Id": "Armor_Copper_Chest",
+              "Quantity": 1,
+              "Durability": 72.0,
+              "MaxDurability": 80.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "HotBar": {
+          "Id": "Simple",
+          "Capacity": 9,
+          "Items": {
+            "0": {
+              "Id": "Weapon_Daggers_Crude",
+              "Quantity": 1,
+              "Durability": 66.40000000000032,
+              "MaxDurability": 80.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "Tool_Hatchet_Copper",
+              "Quantity": 1,
+              "Durability": 187.75,
+              "MaxDurability": 200.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "6": {
+              "Id": "Wood_Hardwood_Planks_Half",
+              "Quantity": 15,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "Food_Wildmeat_Cooked",
+              "Quantity": 10,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "8": {
+              "Id": "Furniture_Crude_Torch",
+              "Quantity": 16,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Tool_Pickaxe_Copper",
+              "Quantity": 1,
+              "Durability": 195.0,
+              "MaxDurability": 200.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Weapon_Shortbow_Iron_Rusty",
+              "Quantity": 1,
+              "Durability": 120.0,
+              "MaxDurability": 120.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "7": {
+              "Id": "Wood_Hardwood_Planks",
+              "Quantity": 21,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "Tool_Hatchet_Crude",
+              "Quantity": 1,
+              "Durability": 135.0,
+              "MaxDurability": 150.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Utility": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {
+            "0": {
+              "Id": "Furniture_Crude_Torch",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Weapon_Shield_Copper",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Backpack": {
+          "Id": "Empty"
+        },
+        "ActiveHotbarSlot": 7,
+        "Tool": {
+          "Id": "Simple",
+          "Capacity": 23,
+          "Items": {
+            "0": {
+              "Id": "EditorTool_Paint",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "EditorTool_Selection",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "EditorTool_Line",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "EditorTool_Sculpt",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "EditorTool_Paste",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "EditorTool_Layers",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "ActiveToolsSlot": -1,
+        "ActiveUtilitySlot": 1,
+        "SortType": "Type"
+      },
+      "PlayerData": {
+        "BlockIdVersion": 11,
+        "World": "default",
+        "KnownRecipes": [],
+        "PerWorldData": {
+          "default": {
+            "LastPosition": {
+              "X": -105.63748168945312,
+              "Y": 141.0,
+              "Z": 1082.684326171875,
+              "Pitch": -0.35504618287086487,
+              "Yaw": -0.26525038480758667,
+              "Roll": 0.0
+            },
+            "LastMovementStates": {
+              "Flying": false
+            },
+            "FirstSpawn": false,
+            "RespawnPoints": [
+              {
+                "BlockPosition": {
+                  "X": -104,
+                  "Y": 135,
+                  "Z": 1083
+                },
+                "RespawnPosition": {
+                  "X": -103.97500002384186,
+                  "Y": 135.15000000596046,
+                  "Z": 1083.5
+                },
+                "Name": "Casper's bed"
+              }
+            ],
+            "DeathPositions": [
+              {
+                "MarkerId": "death-marker-9511e7f2-1b8e-4512-9a69-db33cd52d67d",
+                "Transform": {
+                  "X": -122.13927459716797,
+                  "Y": 122.0203628540039,
+                  "Z": 1119.3577880859375,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 71
+              }
+            ]
+          }
+        },
+        "DiscoveredZones": [
+          "Zone1_Shore",
+          "Zone2_Shore",
+          "Zone2_Tier2",
+          "Zone1_Spawn",
+          "Zone2_Tier1",
+          "Zone1_Tier1",
+          "Zone2_Tier3",
+          "Zone1_Tier3",
+          "Zone1_Tier2"
+        ],
+        "DiscoveredInstances": [],
+        "ReputationData": {},
+        "ActiveObjectiveUUIDs": []
+      },
+      "BlockPlacementOverride": false,
+      "HotbarManager": {
+        "SavedHotbars": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CurrentHotbar": 0
+      },
+      "GameMode": "Adventure"
+    },
+    "HitboxCollision": {
+      "HitboxCollisionConfigIndex": 1
+    },
+    "UniqueItemUsages": {
+      "UniqueItemUsed": []
+    },
+    "Instance": {},
+    "UUID": {
+      "UUID": {
+        "$binary": "ERxf7holR7ieEnqi2w5mtw==",
+        "$type": "04"
+      }
+    },
+    "EntityStats": {
+      "Version": 5,
+      "Stats": {
+        "Oxygen": {
+          "Id": "Oxygen",
+          "Value": 100.0
+        },
+        "Mana": {
+          "Id": "Mana",
+          "Value": 0.0
+        },
+        "Health": {
+          "Id": "Health",
+          "Value": 99.0,
+          "Modifiers": {
+            "Armor_ADDITIVE": {
+              "Id": "Static",
+              "CalculationType": "Additive",
+              "Amount": 9.0
+            }
+          }
+        },
+        "GlidingActive": {
+          "Id": "GlidingActive",
+          "Value": 0.0
+        },
+        "Immunity": {
+          "Id": "Immunity",
+          "Value": 0.0
+        },
+        "SignatureCharges": {
+          "Id": "SignatureCharges",
+          "Value": 0.0
+        },
+        "Stamina": {
+          "Id": "Stamina",
+          "Value": 10.0
+        },
+        "Ammo": {
+          "Id": "Ammo",
+          "Value": 0.0
+        },
+        "Unknown": {
+          "Id": "Unknown",
+          "Value": 0.0
+        },
+        "SignatureEnergy": {
+          "Id": "SignatureEnergy",
+          "Value": 0.0
+        },
+        "DeployablePreview": {
+          "Id": "DeployablePreview",
+          "Value": 0.0
+        },
+        "StaminaRegenDelay": {
+          "Id": "StaminaRegenDelay",
+          "Value": 0.0
+        },
+        "MagicCharges": {
+          "Id": "MagicCharges",
+          "Value": 0.0
+        }
+      }
+    },
+    "HeadRotation": {
+      "Rotation": {
+        "Pitch": -0.00679633766412735,
+        "Yaw": -1.609249234199524,
+        "Roll": 0.0
+      }
+    }
+  }
+}

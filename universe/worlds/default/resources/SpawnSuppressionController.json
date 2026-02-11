@@ -1,0 +1,12 @@
+{
+  "SpawnSuppressorMap": {
+    "82ab49f6-0c9f-324d-9cfd-d54859b990c5": {
+      "Position": {
+        "X": 148.0,
+        "Y": 115.0,
+        "Z": 481.0
+      },
+      "Suppression": "Spawn_Camp"
+    }
+  }
+}

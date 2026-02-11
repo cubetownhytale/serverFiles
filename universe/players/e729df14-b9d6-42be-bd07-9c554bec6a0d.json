@@ -1,0 +1,604 @@
+{
+  "Components": {
+    "Nameplate": {
+      "Text": "SoulReaper_"
+    },
+    "EffectController": {},
+    "ObjectiveHistory": {
+      "ObjectiveHistory": {},
+      "ObjectiveLineHistory": {}
+    },
+    "DisplayName": {
+      "DisplayName": {
+        "RawText": "SoulReaper_",
+        "Bold": null,
+        "Italic": null,
+        "Monospace": null,
+        "Underline": null
+      }
+    },
+    "UIComponentList": {},
+    "Transform": {
+      "Position": {
+        "X": 453.1329650878906,
+        "Y": 121.0,
+        "Z": 331.8954772949219
+      },
+      "Rotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.9390007257461548,
+        "Roll": 0.0
+      }
+    },
+    "BuilderTools": {
+      "SelectionHistory": true
+    },
+    "Velocity": {
+      "Velocity": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    },
+    "Player": {
+      "Version": 5,
+      "UUID": {
+        "$binary": "5ynfFLnWQr69B5xVS+xqDQ==",
+        "$type": "04"
+      },
+      "Inventory": {
+        "Version": 4,
+        "Storage": {
+          "Id": "Simple",
+          "Capacity": 36,
+          "Items": {
+            "0": {
+              "Id": "Weapon_Arrow_Crude",
+              "Quantity": 13,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "33": {
+              "Id": "Furniture_Village_Window",
+              "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "29": {
+              "Id": "Furniture_Village_Stool",
+              "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "25": {
+              "Id": "EditorTool_Flood",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "30": {
+              "Id": "Soil_Grass",
+              "Quantity": 88,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "28": {
+              "Id": "Furniture_Village_Table",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "24": {
+              "Id": "EditorTool_Ruler",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "23": {
+              "Id": "EditorTool_Paste",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "19": {
+              "Id": "Rock_Stone_Brick_Stairs",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "18": {
+              "Id": "Rock_Stone_Brick_Smooth",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "21": {
+              "Id": "Rock_Stone_Brick_Wall",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "22": {
+              "Id": "EditorTool_Paint",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "Metadata": {
+                "ToolData": {
+                  "BrushDensity": 100,
+                  "BrushSpacing": 0
+                },
+                "BrushData": {
+                  "Width": 5,
+                  "Height": 5,
+                  "Thickness": 0,
+                  "Capped": false,
+                  "Shape": "Cube",
+                  "Origin": "Center",
+                  "OriginRotation": false,
+                  "RotationAxis": "None",
+                  "RotationAngle": "None",
+                  "MirrorAxis": "None",
+                  "Material": "Soil_Grass_Full",
+                  "FavoriteMaterials": [],
+                  "Mask": "-",
+                  "MaskAbove": "-",
+                  "MaskNot": "-",
+                  "MaskBelow": "-",
+                  "MaskAdjacent": "-",
+                  "MaskNeighbor": "-",
+                  "MaskCommands": [],
+                  "UseMaskCommands": false,
+                  "InvertMask": false
+                }
+              },
+              "OverrideDroppedItemAnimation": false
+            },
+            "20": {
+              "Id": "EditorTool_Sculpt",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "35": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 50,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "27": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 50,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "31": {
+              "Id": "Furniture_Village_Ladder",
+              "Quantity": 4,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 9,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "34": {
+              "Id": "Rock_Stone_Brick",
+              "Quantity": 4,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Armor": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {}
+        },
+        "HotBar": {
+          "Id": "Simple",
+          "Capacity": 9,
+          "Items": {
+            "0": {
+              "Id": "Tool_Pickaxe_Crude",
+              "Quantity": 1,
+              "Durability": 89.0,
+              "MaxDurability": 150.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "Tool_Hatchet_Crude",
+              "Quantity": 1,
+              "Durability": 127.25,
+              "MaxDurability": 150.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "Wood_Softwood_Planks",
+              "Quantity": 11,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "8": {
+              "Id": "Wood_Hardwood_Fence_Gate",
+              "Quantity": 3,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Furniture_Crude_Torch",
+              "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Wood_Hardwood_Planks_Half",
+              "Quantity": 4,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "7": {
+              "Id": "Wood_Hardwood_Fence",
+              "Quantity": 15,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "Weapon_Sword_Crude",
+              "Quantity": 1,
+              "Durability": 70.32000000000005,
+              "MaxDurability": 80.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Utility": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {}
+        },
+        "Backpack": {
+          "Id": "Empty"
+        },
+        "ActiveHotbarSlot": 5,
+        "Tool": {
+          "Id": "Simple",
+          "Capacity": 23,
+          "Items": {
+            "0": {
+              "Id": "EditorTool_Paint",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "EditorTool_Selection",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "EditorTool_Line",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "EditorTool_Sculpt",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "EditorTool_Paste",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "EditorTool_Layers",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "ActiveToolsSlot": -1,
+        "ActiveUtilitySlot": 0,
+        "SortType": "Type"
+      },
+      "PlayerData": {
+        "BlockIdVersion": 11,
+        "World": "default",
+        "KnownRecipes": [],
+        "PerWorldData": {
+          "default": {
+            "LastPosition": {
+              "X": 453.1329650878906,
+              "Y": 121.0,
+              "Z": 331.8954772949219,
+              "Pitch": -0.09950030595064163,
+              "Yaw": 0.9410027265548706,
+              "Roll": 0.0
+            },
+            "LastMovementStates": {
+              "Flying": false
+            },
+            "FirstSpawn": false,
+            "RespawnPoints": [
+              {
+                "BlockPosition": {
+                  "X": 496,
+                  "Y": 123,
+                  "Z": 374
+                },
+                "RespawnPosition": {
+                  "X": 497.1749999523163,
+                  "Y": 124.64999997615814,
+                  "Z": 373.97499999403954
+                },
+                "Name": "SoulReaper_'s bed"
+              }
+            ],
+            "DeathPositions": [
+              {
+                "MarkerId": "death-marker-3013e2fe-d585-4f33-8f90-b0285208eb05",
+                "Transform": {
+                  "X": 4.548145294189453,
+                  "Y": 172.2869873046875,
+                  "Z": 16.59781837463379,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 16
+              },
+              {
+                "MarkerId": "death-marker-8f19bc8b-3326-43e7-9234-137a90f3adcb",
+                "Transform": {
+                  "X": -140.961181640625,
+                  "Y": 119.0,
+                  "Z": 223.02993774414062,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 86
+              }
+            ]
+          }
+        },
+        "DiscoveredZones": [
+          "Zone1_Tier2",
+          "Zone1_Tier3",
+          "Zone1_Spawn",
+          "Zone1_Tier1"
+        ],
+        "DiscoveredInstances": [],
+        "ReputationData": {},
+        "ActiveObjectiveUUIDs": []
+      },
+      "BlockPlacementOverride": false,
+      "HotbarManager": {
+        "SavedHotbars": [
+          {
+            "Id": "Simple",
+            "Capacity": 9,
+            "Items": {
+              "0": {
+                "Id": "Rock_Stone_Brick",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "2": {
+                "Id": "Rock_Stone_Brick_Stairs",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "6": {
+                "Id": "EditorTool_Paste",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "4": {
+                "Id": "EditorTool_Paint",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "Metadata": {
+                  "ToolData": {
+                    "BrushDensity": 100,
+                    "BrushSpacing": 0
+                  },
+                  "BrushData": {
+                    "Width": 5,
+                    "Height": 5,
+                    "Thickness": 0,
+                    "Capped": false,
+                    "Shape": "Cube",
+                    "Origin": "Center",
+                    "OriginRotation": false,
+                    "RotationAxis": "None",
+                    "RotationAngle": "None",
+                    "MirrorAxis": "None",
+                    "Material": "Soil_Grass_Full",
+                    "FavoriteMaterials": [],
+                    "Mask": "-",
+                    "MaskAbove": "-",
+                    "MaskNot": "-",
+                    "MaskBelow": "-",
+                    "MaskAdjacent": "-",
+                    "MaskNeighbor": "-",
+                    "MaskCommands": [],
+                    "UseMaskCommands": false,
+                    "InvertMask": false
+                  }
+                },
+                "OverrideDroppedItemAnimation": false
+              },
+              "8": {
+                "Id": "EditorTool_Flood",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "1": {
+                "Id": "Rock_Stone_Brick_Smooth",
+                "Quantity": 100,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "3": {
+                "Id": "EditorTool_Sculpt",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "7": {
+                "Id": "EditorTool_Ruler",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              }
+            }
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CurrentHotbar": 0
+      },
+      "GameMode": "Adventure"
+    },
+    "HitboxCollision": {
+      "HitboxCollisionConfigIndex": 1
+    },
+    "UniqueItemUsages": {
+      "UniqueItemUsed": []
+    },
+    "Instance": {},
+    "UUID": {
+      "UUID": {
+        "$binary": "5ynfFLnWQr69B5xVS+xqDQ==",
+        "$type": "04"
+      }
+    },
+    "EntityStats": {
+      "Version": 5,
+      "Stats": {
+        "Oxygen": {
+          "Id": "Oxygen",
+          "Value": 100.0
+        },
+        "Mana": {
+          "Id": "Mana",
+          "Value": 0.0
+        },
+        "Health": {
+          "Id": "Health",
+          "Value": 100.0
+        },
+        "GlidingActive": {
+          "Id": "GlidingActive",
+          "Value": 0.0
+        },
+        "Immunity": {
+          "Id": "Immunity",
+          "Value": 0.0
+        },
+        "SignatureCharges": {
+          "Id": "SignatureCharges",
+          "Value": 0.0
+        },
+        "Stamina": {
+          "Id": "Stamina",
+          "Value": 10.0
+        },
+        "Ammo": {
+          "Id": "Ammo",
+          "Value": 0.0
+        },
+        "Unknown": {
+          "Id": "Unknown",
+          "Value": 0.0
+        },
+        "SignatureEnergy": {
+          "Id": "SignatureEnergy",
+          "Value": 0.0,
+          "Modifiers": {
+            "*Weapon_0": {
+              "Id": "Static",
+              "CalculationType": "Additive",
+              "Amount": 20.0
+            }
+          }
+        },
+        "DeployablePreview": {
+          "Id": "DeployablePreview",
+          "Value": 0.0
+        },
+        "StaminaRegenDelay": {
+          "Id": "StaminaRegenDelay",
+          "Value": 0.0
+        },
+        "MagicCharges": {
+          "Id": "MagicCharges",
+          "Value": 0.0
+        }
+      }
+    },
+    "HeadRotation": {
+      "Rotation": {
+        "Pitch": -0.09950030595064163,
+        "Yaw": 0.9410027265548706,
+        "Roll": 0.0
+      }
+    }
+  }
+}

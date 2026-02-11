@@ -1,0 +1,411 @@
+{
+  "Components": {
+    "Nameplate": {
+      "Text": "ShinRamen"
+    },
+    "EffectController": {
+      "ActiveEntityEffects": [
+        {
+          "EntityEffectId": "FruitVeggie_Buff_T2",
+          "InitialDuration": 150.0,
+          "RemainingDuration": 124.2553939819336,
+          "SinceLastDamage": 0.04018602520227432,
+          "HasBeenDamaged": false,
+          "SequentialHits": {
+            "Hits": 0
+          },
+          "Infinite": false,
+          "Debuff": false,
+          "StatusEffectIcon": "UI/StatusEffects/Stamina/Small.png",
+          "Invulnerable": false
+        },
+        {
+          "EntityEffectId": "HealthRegen_Buff_T2",
+          "InitialDuration": 150.0,
+          "RemainingDuration": 124.2553939819336,
+          "SinceLastDamage": 1.740196943283081,
+          "HasBeenDamaged": false,
+          "SequentialHits": {
+            "Hits": 0
+          },
+          "Infinite": false,
+          "Debuff": false,
+          "StatusEffectIcon": "UI/StatusEffects/HealthRegen.png",
+          "Invulnerable": false
+        }
+      ]
+    },
+    "ObjectiveHistory": {
+      "ObjectiveHistory": {},
+      "ObjectiveLineHistory": {}
+    },
+    "DisplayName": {
+      "DisplayName": {
+        "RawText": "ShinRamen",
+        "Bold": null,
+        "Italic": null,
+        "Monospace": null,
+        "Underline": null
+      }
+    },
+    "UIComponentList": {},
+    "Transform": {
+      "Position": {
+        "X": 885.8270263671875,
+        "Y": 123.0,
+        "Z": 59.39266586303711
+      },
+      "Rotation": {
+        "Pitch": 0.0,
+        "Yaw": 186.3321533203125,
+        "Roll": 0.0
+      }
+    },
+    "PlayerMemories": {
+      "Capacity": 48,
+      "Memories": [
+        {
+          "Id": "NPC",
+          "NPCRole": "Trork_Brawler",
+          "TranslationKey": "server.npcRoles.Trork_Brawler.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768521152963,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Trork_Guard",
+          "TranslationKey": "server.npcRoles.Trork_Guard.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768521173692,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Skeleton_Knight",
+          "TranslationKey": "server.npcRoles.Skeleton_Knight.name",
+          "IsMemoriesNameOverridden": true,
+          "CapturedTimestamp": 1768521394104,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Skeleton_Ranger",
+          "TranslationKey": "server.npcRoles.Skeleton_Ranger.name",
+          "IsMemoriesNameOverridden": true,
+          "CapturedTimestamp": 1768521403517,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Spark_Living",
+          "TranslationKey": "server.npcRoles.Spark_Living.name",
+          "IsMemoriesNameOverridden": false,
+          "CapturedTimestamp": 1768523145477,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+        }
+      ]
+    },
+    "BuilderTools": {
+      "SelectionHistory": true
+    },
+    "Velocity": {
+      "Velocity": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    },
+    "Player": {
+      "Version": 5,
+      "UUID": {
+        "$binary": "9KS4LBN6TiKj7Cc5nJtpMA==",
+        "$type": "04"
+      },
+      "Inventory": {
+        "Version": 4,
+        "Storage": {
+          "Id": "Simple",
+          "Capacity": 36,
+          "Items": {}
+        },
+        "Armor": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {}
+        },
+        "HotBar": {
+          "Id": "Simple",
+          "Capacity": 9,
+          "Items": {
+            "0": {
+              "Id": "Weapon_Sword_Crude",
+              "Quantity": 1,
+              "Durability": 43.02000000000042,
+              "MaxDurability": 80.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "Tool_Pickaxe_Crude",
+              "Quantity": 1,
+              "Durability": 59.5,
+              "MaxDurability": 150.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Food_Kebab_Fruit",
+              "Quantity": 8,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Tool_Hatchet_Crude",
+              "Quantity": 1,
+              "Durability": 130.75,
+              "MaxDurability": 150.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Utility": {
+          "Id": "Simple",
+          "Capacity": 4,
+          "Items": {
+            "0": {
+              "Id": "Furniture_Crude_Torch",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "Backpack": {
+          "Id": "Empty"
+        },
+        "ActiveHotbarSlot": 6,
+        "Tool": {
+          "Id": "Simple",
+          "Capacity": 23,
+          "Items": {
+            "0": {
+              "Id": "EditorTool_Paint",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
+              "Id": "EditorTool_Selection",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "4": {
+              "Id": "EditorTool_Line",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "EditorTool_Sculpt",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "EditorTool_Paste",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "EditorTool_Layers",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
+        },
+        "ActiveToolsSlot": -1,
+        "ActiveUtilitySlot": 3,
+        "SortType": "Name"
+      },
+      "PlayerData": {
+        "BlockIdVersion": 10,
+        "World": "default",
+        "KnownRecipes": [],
+        "PerWorldData": {
+          "default": {
+            "LastPosition": {
+              "X": 885.8270263671875,
+              "Y": 123.0,
+              "Z": 59.39266586303711,
+              "Pitch": 0.040359798818826675,
+              "Yaw": -1.37800133228302,
+              "Roll": 0.0
+            },
+            "LastMovementStates": {
+              "Flying": false
+            },
+            "FirstSpawn": false,
+            "DeathPositions": [
+              {
+                "MarkerId": "death-marker-cb7cacbb-91a6-47f1-bd17-f7e7a462d3f9",
+                "Transform": {
+                  "X": 97.04314422607422,
+                  "Y": 125.1788330078125,
+                  "Z": 514.9608764648438,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 24
+              },
+              {
+                "MarkerId": "death-marker-f986eb52-e537-4dd0-b7ca-619e6d03c595",
+                "Transform": {
+                  "X": 119.20663452148438,
+                  "Y": 119.96900939941406,
+                  "Z": 467.1313171386719,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 73
+              },
+              {
+                "MarkerId": "death-marker-e391818a-a1b6-474b-9b18-2b7fe4b62d52",
+                "Transform": {
+                  "X": 892.1365356445312,
+                  "Y": 123.0,
+                  "Z": 84.6872787475586,
+                  "Pitch": 0.0,
+                  "Yaw": 0.0,
+                  "Roll": 0.0
+                },
+                "Day": 73
+              }
+            ]
+          }
+        },
+        "DiscoveredZones": [
+          "Zone1_Spawn",
+          "Zone1_Tier3",
+          "Zone1_Tier2",
+          "Zone1_Tier1"
+        ],
+        "DiscoveredInstances": [],
+        "ReputationData": {},
+        "ActiveObjectiveUUIDs": []
+      },
+      "BlockPlacementOverride": false,
+      "HotbarManager": {
+        "SavedHotbars": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "CurrentHotbar": 0
+      },
+      "GameMode": "Adventure"
+    },
+    "HitboxCollision": {
+      "HitboxCollisionConfigIndex": 1
+    },
+    "UniqueItemUsages": {
+      "UniqueItemUsed": []
+    },
+    "Instance": {},
+    "UUID": {
+      "UUID": {
+        "$binary": "9KS4LBN6TiKj7Cc5nJtpMA==",
+        "$type": "04"
+      }
+    },
+    "EntityStats": {
+      "Version": 5,
+      "Stats": {
+        "Oxygen": {
+          "Id": "Oxygen",
+          "Value": 100.0
+        },
+        "Mana": {
+          "Id": "Mana",
+          "Value": 0.0
+        },
+        "Health": {
+          "Id": "Health",
+          "Value": 100.0
+        },
+        "GlidingActive": {
+          "Id": "GlidingActive",
+          "Value": 0.0
+        },
+        "Immunity": {
+          "Id": "Immunity",
+          "Value": 0.0
+        },
+        "SignatureCharges": {
+          "Id": "SignatureCharges",
+          "Value": 0.0
+        },
+        "Stamina": {
+          "Id": "Stamina",
+          "Value": 12.0,
+          "Modifiers": {
+            "Effect_MULTIPLICATIVE": {
+              "Id": "Static",
+              "CalculationType": "Multiplicative",
+              "Amount": 1.2000000476837158
+            }
+          }
+        },
+        "Ammo": {
+          "Id": "Ammo",
+          "Value": 0.0
+        },
+        "Unknown": {
+          "Id": "Unknown",
+          "Value": 0.0
+        },
+        "SignatureEnergy": {
+          "Id": "SignatureEnergy",
+          "Value": 0.0
+        },
+        "DeployablePreview": {
+          "Id": "DeployablePreview",
+          "Value": 0.0
+        },
+        "StaminaRegenDelay": {
+          "Id": "StaminaRegenDelay",
+          "Value": 0.0
+        },
+        "MagicCharges": {
+          "Id": "MagicCharges",
+          "Value": 0.0
+        }
+      }
+    },
+    "HeadRotation": {
+      "Rotation": {
+        "Pitch": 0.040359798818826675,
+        "Yaw": -1.37800133228302,
+        "Roll": 0.0
+      }
+    }
+  }
+}
