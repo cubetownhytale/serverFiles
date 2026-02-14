@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": 160.22108459472656,
-        "Y": 148.00010681152344,
-        "Z": 496.7434387207031
+        "X": 134.99517822265625,
+        "Y": 151.0,
+        "Z": 481.57794189453125
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": -83.24856567382812,
+        "Yaw": -7.7567949295043945,
         "Roll": 0.0
       }
     },
@@ -210,15 +210,15 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "27": {
-              "Id": "Furniture_Outlander_Banner",
+            "6": {
+              "Id": "Furniture_Temple_Light_Table",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "6": {
-              "Id": "Furniture_Temple_Light_Table",
+            "27": {
+              "Id": "Furniture_Outlander_Banner",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -238,8 +238,8 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "10": {
-              "Id": "Cloth_Block_Wool_Red",
+            "31": {
+              "Id": "Furniture_Desert_Shelf",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -252,8 +252,8 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "31": {
-              "Id": "Furniture_Desert_Shelf",
+            "10": {
+              "Id": "Cloth_Block_Wool_Red",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -367,13 +367,6 @@
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
-            },
-            "5": {
-              "Id": "Rock_Chalk_Brick",
-              "Quantity": 1,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
             }
           }
         },
@@ -393,7 +386,7 @@
         "Backpack": {
           "Id": "Empty"
         },
-        "ActiveHotbarSlot": 4,
+        "ActiveHotbarSlot": 5,
         "Tool": {
           "Id": "Simple",
           "Capacity": 23,
@@ -455,11 +448,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": 168.76051330566406,
-              "Y": 162.70477294921875,
-              "Z": 503.50982666015625,
-              "Pitch": -1.5520464181900024,
-              "Yaw": -1.8928046226501465,
+              "X": 160.22108459472656,
+              "Y": 148.00010681152344,
+              "Z": 496.7434387207031,
+              "Pitch": -0.054453760385513306,
+              "Yaw": -2.315805435180664,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -581,13 +574,6 @@
                 "MaxDurability": 0.0,
                 "OverrideDroppedItemAnimation": false
               },
-              "5": {
-                "Id": "Rock_Chalk_Brick",
-                "Quantity": 1,
-                "Durability": 0.0,
-                "MaxDurability": 0.0,
-                "OverrideDroppedItemAnimation": false
-              },
               "8": {
                 "Id": "Furniture_Crude_Chest_Small",
                 "Quantity": 10,
@@ -684,8 +670,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.054453760385513306,
-        "Yaw": -2.315805435180664,
+        "Pitch": -0.02295280620455742,
+        "Yaw": -1.487370252609253,
         "Roll": 0.0
       }
     }
