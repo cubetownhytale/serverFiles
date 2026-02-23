@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": 134.99517822265625,
-        "Y": 151.0,
-        "Z": 481.57794189453125
+        "X": 165.89999389648438,
+        "Y": 123.9000015258789,
+        "Z": 482.5
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": -7.7567949295043945,
+        "Yaw": 3.1415927410125732,
         "Roll": 0.0
       }
     },
@@ -210,15 +210,15 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "6": {
-              "Id": "Furniture_Temple_Light_Table",
+            "27": {
+              "Id": "Furniture_Outlander_Banner",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "27": {
-              "Id": "Furniture_Outlander_Banner",
+            "6": {
+              "Id": "Furniture_Temple_Light_Table",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -238,8 +238,8 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "31": {
-              "Id": "Furniture_Desert_Shelf",
+            "10": {
+              "Id": "Cloth_Block_Wool_Red",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -252,8 +252,8 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "10": {
-              "Id": "Cloth_Block_Wool_Red",
+            "31": {
+              "Id": "Furniture_Desert_Shelf",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -448,18 +448,32 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": 134.99517822265625,
-              "Y": 151.0,
-              "Z": 481.57794189453125,
-              "Pitch": -0.02295280620455742,
-              "Yaw": -1.487370252609253,
+              "X": 165.89999389648438,
+              "Y": 123.9000015258789,
+              "Z": 482.5,
+              "Pitch": 1.5341942310333252,
+              "Yaw": 5.050928115844727,
               "Roll": 0.0
             },
             "LastMovementStates": {
-              "Flying": true
+              "Flying": false
             },
             "FirstSpawn": false,
-            "RespawnPoints": [],
+            "RespawnPoints": [
+              {
+                "BlockPosition": {
+                  "X": 165,
+                  "Y": 123,
+                  "Z": 481
+                },
+                "RespawnPosition": {
+                  "X": 165.875,
+                  "Y": 124.35,
+                  "Z": 482.175
+                },
+                "Name": "CubeTime's bed"
+              }
+            ],
             "DeathPositions": [
               {
                 "MarkerId": "death-marker-f8873a35-fe93-4a39-ba16-f8e285c572ec",
@@ -485,7 +499,8 @@
                 },
                 "Day": 16
               }
-            ]
+            ],
+            "UserMarkers": []
           },
           "scratchpad": {
             "LastPosition": {
@@ -500,19 +515,20 @@
               "Flying": true
             },
             "FirstSpawn": false,
-            "DeathPositions": []
+            "DeathPositions": [],
+            "UserMarkers": []
           }
         },
         "DiscoveredZones": [
-          "Zone1_Shallow_Ocean",
-          "Oceans",
-          "Zone1_Temple",
-          "Zone2_Shallow_Ocean",
-          "Zone1_Tier1",
-          "Zone1_Tier2",
-          "Zone1_Spawn",
+          "Zone1_Tier3",
           "Zone1_Shore",
-          "Zone1_Tier3"
+          "Zone1_Spawn",
+          "Zone1_Tier2",
+          "Zone1_Tier1",
+          "Zone2_Shallow_Ocean",
+          "Zone1_Temple",
+          "Oceans",
+          "Zone1_Shallow_Ocean"
         ],
         "DiscoveredInstances": [],
         "ReputationData": {},
@@ -670,8 +686,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.02295280620455742,
-        "Yaw": -1.487370252609253,
+        "Pitch": 1.5341942310333252,
+        "Yaw": 5.050928115844727,
         "Roll": 0.0
       }
     }

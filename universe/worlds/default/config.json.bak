@@ -8,7 +8,8 @@
   "Seed": 1768316527732,
   "WorldGen": {
     "Type": "Hytale",
-    "Name": "Default"
+    "Name": "Default",
+    "Version": "0.0.0"
   },
   "WorldMap": {
     "Type": "SimpleClaims"

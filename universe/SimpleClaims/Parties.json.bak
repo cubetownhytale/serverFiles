@@ -51,6 +51,56 @@
       }
     },
     {
+      "Id": "8bc79665-e8c0-4166-bef6-98b7c8656449",
+      "Owner": "6829df41-a864-4ef8-823b-af8717f0fdf4",
+      "Name": "Zervix's Party",
+      "Description": "Zervix's Party Description",
+      "Color": -16742913,
+      "Members": [
+        "6829df41-a864-4ef8-823b-af8717f0fdf4"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "6829df41-a864-4ef8-823b-af8717f0fdf4",
+        "UserName": "Zervix",
+        "Date": "2026-02-21T11:05:51.573668400"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "6829df41-a864-4ef8-823b-af8717f0fdf4",
+        "UserName": "Zervix",
+        "Date": "2026-02-21T11:05:51.573668400"
+      }
+    },
+    {
       "Id": "d1cad981-86b0-4a58-b4f8-b9a6530efd3c",
       "Owner": "72adb305-eac0-4609-b85a-4625f462bcff",
       "Name": "MrKlinkOG's Party",
@@ -198,6 +248,56 @@
         "UserUUID": "ff395293-b7e2-4fed-8ec8-4512b2b25ec4",
         "UserName": "papisanti",
         "Date": "2026-01-14T20:00:13.392558700"
+      }
+    },
+    {
+      "Id": "d0f63536-4adb-4544-b228-a1793a427f05",
+      "Owner": "2ccc83d0-9455-44f2-b6d4-d71465fda68c",
+      "Name": "lilSmokie's Party",
+      "Description": "lilSmokie's Party Description",
+      "Color": -65513,
+      "Members": [
+        "2ccc83d0-9455-44f2-b6d4-d71465fda68c"
+      ],
+      "Overrides": [
+        {
+          "Type": "simpleclaims.claim.amount",
+          "Value": {
+            "Type": "integer",
+            "Value": "25"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.place_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.break_blocks",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        },
+        {
+          "Type": "simpleclaims.party.protection.interact",
+          "Value": {
+            "Type": "bool",
+            "Value": "false"
+          }
+        }
+      ],
+      "CreatedTracker": {
+        "UserUUID": "2ccc83d0-9455-44f2-b6d4-d71465fda68c",
+        "UserName": "lilSmokie",
+        "Date": "2026-02-21T03:28:58.820480"
+      },
+      "ModifiedTracker": {
+        "UserUUID": "2ccc83d0-9455-44f2-b6d4-d71465fda68c",
+        "UserName": "lilSmokie",
+        "Date": "2026-02-21T03:28:58.820480"
       }
     },
     {
