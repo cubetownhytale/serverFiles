@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": -214.57090759277344,
+        "X": -213.44342041015625,
         "Y": 123.0000991821289,
-        "Z": 254.3741455078125
+        "Z": 254.56686401367188
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": 58.6037712097168,
+        "Yaw": 55.525291442871094,
         "Roll": 0.0
       }
     },
@@ -80,21 +80,14 @@
             },
             "2": {
               "Id": "Ingredient_Tree_Sap",
-              "Quantity": 78,
+              "Quantity": 48,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "6": {
-              "Id": "*Tool_Watering_Can_State_Filled_Water",
-              "Quantity": 1,
-              "Durability": 19.0,
-              "MaxDurability": 20.0,
-              "OverrideDroppedItemAnimation": false
-            },
             "4": {
               "Id": "Rubble_Stone",
-              "Quantity": 100,
+              "Quantity": 98,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -106,6 +99,27 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
+            "9": {
+              "Id": "Plant_Seeds_Carrot",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "11": {
+              "Id": "Tool_Shears_Basic",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "10": {
+              "Id": "Tool_Hoe_Crude",
+              "Quantity": 1,
+              "Durability": 98.0,
+              "MaxDurability": 100.0,
+              "OverrideDroppedItemAnimation": false
+            },
             "1": {
               "Id": "Weapon_Arrow_Crude",
               "Quantity": 26,
@@ -115,7 +129,7 @@
             },
             "3": {
               "Id": "Ingredient_Stick",
-              "Quantity": 100,
+              "Quantity": 73,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -136,7 +150,7 @@
             },
             "5": {
               "Id": "Ingredient_Fibre",
-              "Quantity": 66,
+              "Quantity": 36,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -184,7 +198,7 @@
             "0": {
               "Id": "Tool_Pickaxe_Crude",
               "Quantity": 1,
-              "Durability": 139.25,
+              "Durability": 110.0,
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
@@ -196,22 +210,22 @@
               "OverrideDroppedItemAnimation": false
             },
             "6": {
-              "Id": "Tool_Shears_Basic",
+              "Id": "*Tool_Watering_Can_State_Filled_Water",
               "Quantity": 1,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
+              "Durability": 9.0,
+              "MaxDurability": 20.0,
               "OverrideDroppedItemAnimation": false
             },
             "4": {
               "Id": "Soil_Dirt",
-              "Quantity": 9,
+              "Quantity": 89,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "8": {
               "Id": "Furniture_Crude_Torch",
-              "Quantity": 4,
+              "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -219,15 +233,15 @@
             "1": {
               "Id": "Tool_Hatchet_Crude",
               "Quantity": 1,
-              "Durability": 98.0,
+              "Durability": 97.75,
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
-              "Id": "Tool_Hoe_Crude",
+              "Id": "Tool_Shovel_Iron",
               "Quantity": 1,
-              "Durability": 98.0,
-              "MaxDurability": 100.0,
+              "Durability": 248.59999999999968,
+              "MaxDurability": 250.0,
               "OverrideDroppedItemAnimation": false
             },
             "7": {
@@ -322,11 +336,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": -214.57090759277344,
+              "X": -213.44342041015625,
               "Y": 123.0000991821289,
-              "Z": 254.3741455078125,
-              "Pitch": -0.37567785382270813,
-              "Yaw": 2.0486693382263184,
+              "Z": 254.56686401367188,
+              "Pitch": -0.2832992672920227,
+              "Yaw": -1.0103038549423218,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -367,15 +381,15 @@
           }
         },
         "DiscoveredZones": [
-          "Zone1_Spawn",
           "Zone1_Temple",
           "Zone1_Shallow_Ocean",
+          "Zone3_Tier1",
+          "Zone1_Shore",
           "ForgottenTemple",
           "Zone1_Tier3",
+          "Zone1_Spawn",
           "Zone1_Tier2",
-          "Zone1_Tier1",
-          "Zone1_Shore",
-          "Zone3_Tier1"
+          "Zone1_Tier1"
         ],
         "DiscoveredInstances": [
           {
@@ -483,8 +497,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.37567785382270813,
-        "Yaw": 2.0486693382263184,
+        "Pitch": -0.2832992672920227,
+        "Yaw": -1.0103038549423218,
         "Roll": 0.0
       }
     }

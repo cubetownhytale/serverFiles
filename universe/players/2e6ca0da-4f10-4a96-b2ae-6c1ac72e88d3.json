@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": 165.89999389648438,
-        "Y": 123.9000015258789,
-        "Z": 482.5
+        "X": 161.23072814941406,
+        "Y": 147.3297119140625,
+        "Z": 495.3642272949219
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": 3.1415927410125732,
+        "Yaw": -0.6608068346977234,
         "Roll": 0.0
       }
     },
@@ -127,8 +127,8 @@
               "OverrideDroppedItemAnimation": false
             },
             "28": {
-              "Id": "Rock_Chalk_Brick_Half",
-              "Quantity": 1,
+              "Id": "Furniture_Village_Wardrobe",
+              "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -327,15 +327,15 @@
               "OverrideDroppedItemAnimation": false
             },
             "6": {
-              "Id": "Furniture_Village_Platform",
-              "Quantity": 100,
+              "Id": "Rock_Marble_Brick_Wall",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "4": {
-              "Id": "Furniture_Temple_Wind_Chandelier",
-              "Quantity": 100,
+              "Id": "Rock_Chalk_Brick_Half",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -362,8 +362,15 @@
               "OverrideDroppedItemAnimation": false
             },
             "7": {
-              "Id": "Furniture_Village_Wardrobe",
-              "Quantity": 100,
+              "Id": "Rock_Marble_Brick_Smooth",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "5": {
+              "Id": "Rock_Marble",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -448,32 +455,18 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": 165.89999389648438,
-              "Y": 123.9000015258789,
-              "Z": 482.5,
-              "Pitch": 1.5341942310333252,
-              "Yaw": 5.050928115844727,
+              "X": 161.23072814941406,
+              "Y": 147.3297119140625,
+              "Z": 495.3642272949219,
+              "Pitch": -0.5600003600120544,
+              "Yaw": -0.6608054041862488,
               "Roll": 0.0
             },
             "LastMovementStates": {
-              "Flying": false
+              "Flying": true
             },
             "FirstSpawn": false,
-            "RespawnPoints": [
-              {
-                "BlockPosition": {
-                  "X": 165,
-                  "Y": 123,
-                  "Z": 481
-                },
-                "RespawnPosition": {
-                  "X": 165.875,
-                  "Y": 124.35,
-                  "Z": 482.175
-                },
-                "Name": "CubeTime's bed"
-              }
-            ],
+            "RespawnPoints": [],
             "DeathPositions": [
               {
                 "MarkerId": "death-marker-f8873a35-fe93-4a39-ba16-f8e285c572ec",
@@ -520,15 +513,15 @@
           }
         },
         "DiscoveredZones": [
-          "Zone1_Tier3",
+          "Zone1_Temple",
+          "Oceans",
+          "Zone1_Shallow_Ocean",
           "Zone1_Shore",
+          "Zone1_Tier3",
           "Zone1_Spawn",
           "Zone1_Tier2",
           "Zone1_Tier1",
-          "Zone2_Shallow_Ocean",
-          "Zone1_Temple",
-          "Oceans",
-          "Zone1_Shallow_Ocean"
+          "Zone2_Shallow_Ocean"
         ],
         "DiscoveredInstances": [],
         "ReputationData": {},
@@ -570,22 +563,29 @@
                 "OverrideDroppedItemAnimation": false
               },
               "7": {
-                "Id": "Furniture_Village_Wardrobe",
-                "Quantity": 100,
+                "Id": "Rock_Marble_Brick_Smooth",
+                "Quantity": 1,
                 "Durability": 0.0,
                 "MaxDurability": 0.0,
                 "OverrideDroppedItemAnimation": false
               },
               "6": {
-                "Id": "Furniture_Village_Platform",
-                "Quantity": 100,
+                "Id": "Rock_Marble_Brick_Wall",
+                "Quantity": 1,
                 "Durability": 0.0,
                 "MaxDurability": 0.0,
                 "OverrideDroppedItemAnimation": false
               },
               "4": {
-                "Id": "Furniture_Temple_Wind_Chandelier",
-                "Quantity": 100,
+                "Id": "Rock_Chalk_Brick_Half",
+                "Quantity": 1,
+                "Durability": 0.0,
+                "MaxDurability": 0.0,
+                "OverrideDroppedItemAnimation": false
+              },
+              "5": {
+                "Id": "Rock_Marble",
+                "Quantity": 1,
                 "Durability": 0.0,
                 "MaxDurability": 0.0,
                 "OverrideDroppedItemAnimation": false
@@ -686,8 +686,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": 1.5341942310333252,
-        "Yaw": 5.050928115844727,
+        "Pitch": -0.5600003600120544,
+        "Yaw": -0.6608054041862488,
         "Roll": 0.0
       }
     }
