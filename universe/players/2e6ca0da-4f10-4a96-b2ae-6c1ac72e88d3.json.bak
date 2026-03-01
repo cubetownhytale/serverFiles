@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": 161.23072814941406,
-        "Y": 147.3297119140625,
-        "Z": 495.3642272949219
+        "X": 159.98997497558594,
+        "Y": 155.1295623779297,
+        "Z": 491.888671875
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": -0.6608068346977234,
+        "Yaw": -0.42071014642715454,
         "Roll": 0.0
       }
     },
@@ -210,15 +210,15 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "27": {
-              "Id": "Furniture_Outlander_Banner",
+            "6": {
+              "Id": "Furniture_Temple_Light_Table",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "6": {
-              "Id": "Furniture_Temple_Light_Table",
+            "27": {
+              "Id": "Furniture_Outlander_Banner",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -238,8 +238,8 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "10": {
-              "Id": "Cloth_Block_Wool_Red",
+            "31": {
+              "Id": "Furniture_Desert_Shelf",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -252,8 +252,8 @@
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "31": {
-              "Id": "Furniture_Desert_Shelf",
+            "10": {
+              "Id": "Cloth_Block_Wool_Red",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -455,11 +455,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": 171.05841064453125,
-              "Y": 126.3236312866211,
-              "Z": 480.5606689453125,
-              "Pitch": -0.8332036733627319,
-              "Yaw": 2.18792986869812,
+              "X": 161.23072814941406,
+              "Y": 147.3297119140625,
+              "Z": 495.3642272949219,
+              "Pitch": -0.5600003600120544,
+              "Yaw": -0.6608054041862488,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -514,14 +514,14 @@
         },
         "DiscoveredZones": [
           "Zone1_Temple",
-          "Oceans",
-          "Zone1_Shallow_Ocean",
+          "Zone2_Shallow_Ocean",
           "Zone1_Shore",
+          "Zone1_Tier2",
           "Zone1_Tier3",
           "Zone1_Spawn",
-          "Zone1_Tier2",
           "Zone1_Tier1",
-          "Zone2_Shallow_Ocean"
+          "Oceans",
+          "Zone1_Shallow_Ocean"
         ],
         "DiscoveredInstances": [],
         "ReputationData": {},
@@ -686,8 +686,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.5600003600120544,
-        "Yaw": -0.6608054041862488,
+        "Pitch": -0.6299998760223389,
+        "Yaw": -1.1315547227859497,
         "Roll": 0.0
       }
     }

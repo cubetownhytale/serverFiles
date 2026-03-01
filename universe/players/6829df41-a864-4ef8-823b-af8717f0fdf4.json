@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": -213.44342041015625,
+        "X": -214.6710968017578,
         "Y": 123.0000991821289,
-        "Z": 254.56686401367188
+        "Z": 254.8614501953125
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": 55.525291442871094,
+        "Yaw": -6.921576023101807,
         "Roll": 0.0
       }
     },
@@ -46,6 +46,48 @@
           "TranslationKey": "server.npcRoles.Salmon.name",
           "CapturedTimestamp": 1771777836355,
           "FoundLocationNameKey": "server.map.region.Zone3_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Gecko",
+          "TranslationKey": "server.npcRoles.Gecko.name",
+          "CapturedTimestamp": 1772300946692,
+          "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Pig_Wild",
+          "TranslationKey": "server.npcRoles.Pig_Wild.name",
+          "CapturedTimestamp": 1772301124629,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Piranha",
+          "TranslationKey": "server.npcRoles.Piranha.name",
+          "CapturedTimestamp": 1772301128194,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Skeleton_Knight",
+          "TranslationKey": "server.npcRoles.Skeleton_Knight.name",
+          "CapturedTimestamp": 1772305031241,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Skeleton_Ranger",
+          "TranslationKey": "server.npcRoles.Skeleton_Ranger.name",
+          "CapturedTimestamp": 1772305072716,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+        },
+        {
+          "Id": "NPC",
+          "NPCRole": "Skeleton_Archmage",
+          "TranslationKey": "server.npcRoles.Skeleton_Archmage.name",
+          "CapturedTimestamp": 1772305118009,
+          "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
         }
       ]
     },
@@ -72,85 +114,71 @@
           "Capacity": 36,
           "Items": {
             "0": {
+              "Id": "Ingredient_Tree_Sap",
+              "Quantity": 50,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "2": {
               "Id": "Weapon_Arrow_Crude",
               "Quantity": 100,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "2": {
-              "Id": "Ingredient_Tree_Sap",
-              "Quantity": 48,
+            "6": {
+              "Id": "Bench_WorkBench",
+              "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "4": {
-              "Id": "Rubble_Stone",
-              "Quantity": 98,
+              "Id": "Ingredient_Fibre",
+              "Quantity": 67,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "8": {
+              "Id": "Ingredient_Stick",
+              "Quantity": 86,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "9": {
+              "Id": "Rubble_Stone",
+              "Quantity": 7,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Weapon_Arrow_Crude",
+              "Quantity": 69,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "3": {
+              "Id": "Rubble_Stone",
+              "Quantity": 100,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "7": {
               "Id": "Tool_Repair_Kit_Iron",
               "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
-            "9": {
-              "Id": "Plant_Seeds_Carrot",
-              "Quantity": 1,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "11": {
-              "Id": "Tool_Shears_Basic",
-              "Quantity": 1,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "10": {
-              "Id": "Tool_Hoe_Crude",
-              "Quantity": 1,
-              "Durability": 98.0,
-              "MaxDurability": 100.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "1": {
-              "Id": "Weapon_Arrow_Crude",
-              "Quantity": 26,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "3": {
-              "Id": "Ingredient_Stick",
-              "Quantity": 73,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "34": {
-              "Id": "Food_Kebab_Fruit",
-              "Quantity": 25,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "7": {
+            "5": {
               "Id": "Furniture_Kweebec_Bed",
               "Quantity": 1,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "5": {
-              "Id": "Ingredient_Fibre",
-              "Quantity": 36,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -164,28 +192,28 @@
             "0": {
               "Id": "Armor_Copper_Head",
               "Quantity": 1,
-              "Durability": 74.5,
+              "Durability": 71.0,
               "MaxDurability": 80.0,
               "OverrideDroppedItemAnimation": false
             },
             "2": {
               "Id": "Armor_Copper_Hands",
               "Quantity": 1,
-              "Durability": 75.5,
+              "Durability": 72.5,
               "MaxDurability": 80.0,
               "OverrideDroppedItemAnimation": false
             },
             "1": {
               "Id": "Armor_Copper_Chest",
               "Quantity": 1,
-              "Durability": 78.0,
+              "Durability": 76.5,
               "MaxDurability": 80.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
               "Id": "Armor_Copper_Legs",
               "Quantity": 1,
-              "Durability": 79.0,
+              "Durability": 77.0,
               "MaxDurability": 80.0,
               "OverrideDroppedItemAnimation": false
             }
@@ -198,34 +226,34 @@
             "0": {
               "Id": "Tool_Pickaxe_Crude",
               "Quantity": 1,
-              "Durability": 110.0,
+              "Durability": 78.25,
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
             "2": {
               "Id": "Weapon_Sword_Copper",
               "Quantity": 1,
-              "Durability": 90.55000000000028,
+              "Durability": 80.0500000000006,
               "MaxDurability": 100.0,
               "OverrideDroppedItemAnimation": false
             },
             "6": {
-              "Id": "*Tool_Watering_Can_State_Filled_Water",
+              "Id": "Plant_Fruit_Berries_Red",
               "Quantity": 1,
-              "Durability": 9.0,
-              "MaxDurability": 20.0,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "4": {
               "Id": "Soil_Dirt",
-              "Quantity": 89,
+              "Quantity": 92,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "8": {
               "Id": "Furniture_Crude_Torch",
-              "Quantity": 100,
+              "Quantity": 75,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -233,20 +261,20 @@
             "1": {
               "Id": "Tool_Hatchet_Crude",
               "Quantity": 1,
-              "Durability": 97.75,
+              "Durability": 70.25,
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
               "Id": "Tool_Shovel_Iron",
               "Quantity": 1,
-              "Durability": 248.59999999999968,
+              "Durability": 234.79999999999654,
               "MaxDurability": 250.0,
               "OverrideDroppedItemAnimation": false
             },
             "7": {
-              "Id": "Food_Vegetable_Cooked",
-              "Quantity": 6,
+              "Id": "Food_Kebab_Fruit",
+              "Quantity": 18,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -254,8 +282,8 @@
             "5": {
               "Id": "Weapon_Crossbow_Iron",
               "Quantity": 1,
-              "Durability": 32.639999999999645,
-              "MaxDurability": 120.0,
+              "Durability": 84.4799999999999,
+              "MaxDurability": 108.0,
               "OverrideDroppedItemAnimation": false
             }
           }
@@ -274,7 +302,24 @@
           }
         },
         "Backpack": {
-          "Id": "Empty"
+          "Id": "Simple",
+          "Capacity": 9,
+          "Items": {
+            "0": {
+              "Id": "Ingredient_Hide_Medium",
+              "Quantity": 2,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            },
+            "1": {
+              "Id": "Food_Wildmeat_Raw",
+              "Quantity": 1,
+              "Durability": 0.0,
+              "MaxDurability": 0.0,
+              "OverrideDroppedItemAnimation": false
+            }
+          }
         },
         "ActiveHotbarSlot": 0,
         "Tool": {
@@ -327,7 +372,7 @@
         },
         "ActiveToolsSlot": -1,
         "ActiveUtilitySlot": 0,
-        "SortType": "Name"
+        "SortType": "Type"
       },
       "PlayerData": {
         "BlockIdVersion": 11,
@@ -336,11 +381,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": -213.44342041015625,
+              "X": -214.6710968017578,
               "Y": 123.0000991821289,
-              "Z": 254.56686401367188,
-              "Pitch": -0.2832992672920227,
-              "Yaw": -1.0103038549423218,
+              "Z": 254.8614501953125,
+              "Pitch": -0.5002824664115906,
+              "Yaw": 0.11147771775722504,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -381,15 +426,17 @@
           }
         },
         "DiscoveredZones": [
-          "Zone1_Temple",
-          "Zone1_Shallow_Ocean",
           "Zone3_Tier1",
-          "Zone1_Shore",
-          "ForgottenTemple",
-          "Zone1_Tier3",
-          "Zone1_Spawn",
+          "Zone1_Tier1",
           "Zone1_Tier2",
-          "Zone1_Tier1"
+          "Zone1_Tier3",
+          "Zone1_Temple",
+          "Zone2_Tier1",
+          "Zone2_Tier2",
+          "Zone1_Shallow_Ocean",
+          "ForgottenTemple",
+          "Zone1_Spawn",
+          "Zone1_Shore"
         ],
         "DiscoveredInstances": [
           {
@@ -422,7 +469,9 @@
       "HitboxCollisionConfigIndex": 1
     },
     "UniqueItemUsages": {
-      "UniqueItemUsed": []
+      "UniqueItemUsed": [
+        "Upgrade_Backpack_1"
+      ]
     },
     "Instance": {},
     "UUID": {
@@ -497,8 +546,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.2832992672920227,
-        "Yaw": -1.0103038549423218,
+        "Pitch": -0.5002824664115906,
+        "Yaw": 0.11147771775722504,
         "Roll": 0.0
       }
     }
