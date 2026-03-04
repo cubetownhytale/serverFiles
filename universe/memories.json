@@ -2,41 +2,120 @@
   "Memories": [
     {
       "Id": "NPC",
-      "NPCRole": "Skeleton_Sand_Soldier",
-      "TranslationKey": "server.npcRoles.Skeleton_Sand_Soldier.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768404219028,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+      "NPCRole": "Lobster",
+      "TranslationKey": "server.npcRoles.Lobster.name",
+      "CapturedTimestamp": 1768459303088,
+      "FoundLocationNameKey": "server.map.region.Zone1_Shore"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Kweebec_Sapling",
+      "TranslationKey": "server.npcRoles.Kweebec_Sapling.name",
+      "CapturedTimestamp": 1768397253466,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Finch_Green",
+      "TranslationKey": "server.npcRoles.Finch_Green.name",
+      "CapturedTimestamp": 1768417215491,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Lizard_Sand",
+      "TranslationKey": "server.npcRoles.Lizard_Sand.name",
+      "CapturedTimestamp": 1768407933657,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
     },
     {
       "Id": "NPC",
       "NPCRole": "Snake_Cobra",
       "TranslationKey": "server.npcRoles.Snake_Cobra.name",
-      "IsMemoriesNameOverridden": false,
       "CapturedTimestamp": 1768463619803,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Skeleton_Burnt_Soldier",
-      "TranslationKey": "server.npcRoles.Skeleton_Burnt_Soldier.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768402200091,
+      "NPCRole": "Horse",
+      "TranslationKey": "server.npcRoles.Horse.name",
+      "CapturedTimestamp": 1768457925118,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Meerkat",
-      "TranslationKey": "server.npcRoles.Meerkat.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403381083,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+      "NPCRole": "Mouse",
+      "TranslationKey": "server.npcRoles.Mouse.name",
+      "CapturedTimestamp": 1768402289791,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Spider",
+      "TranslationKey": "server.npcRoles.Spider.name",
+      "CapturedTimestamp": 1768402330748,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Woodpecker",
+      "TranslationKey": "server.npcRoles.Woodpecker.name",
+      "CapturedTimestamp": 1768639999423,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Minnow",
+      "TranslationKey": "server.npcRoles.Minnow.name",
+      "CapturedTimestamp": 1768397268177,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Trork_Mauler",
+      "TranslationKey": "server.npcRoles.Trork_Mauler.name",
+      "CapturedTimestamp": 1768458299809,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Bunny",
+      "TranslationKey": "server.npcRoles.Bunny.name",
+      "CapturedTimestamp": 1768397262744,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Wolf_Black",
+      "TranslationKey": "server.npcRoles.Wolf_Black.name",
+      "CapturedTimestamp": 1768402992925,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Scarak_Seeker",
+      "TranslationKey": "server.npcRoles.Scarak_Seeker.name",
+      "CapturedTimestamp": 1768403483332,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Sand_Ranger",
+      "TranslationKey": "server.npcRoles.Skeleton_Sand_Ranger.name",
+      "CapturedTimestamp": 1768404219428,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Tiger_Sabertooth",
+      "TranslationKey": "server.npcRoles.Tiger_Sabertooth.name",
+      "CapturedTimestamp": 1768403389914,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
     },
     {
       "Id": "NPC",
       "NPCRole": "Tetrabird",
       "TranslationKey": "server.npcRoles.Tetrabird.name",
-      "IsMemoriesNameOverridden": false,
       "CapturedTimestamp": 1768402149208,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
     },
@@ -44,559 +123,55 @@
       "Id": "NPC",
       "NPCRole": "Skeleton_Fighter",
       "TranslationKey": "server.npcRoles.Skeleton_Fighter.name",
-      "IsMemoriesNameOverridden": true,
       "CapturedTimestamp": 1768402507396,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Kweebec_Seedling",
-      "TranslationKey": "server.npcRoles.Kweebec_Seedling.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768397233158,
+      "NPCRole": "Bluebird",
+      "TranslationKey": "server.npcRoles.Bluebird.name",
+      "CapturedTimestamp": 1768417220758,
       "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Rat",
-      "TranslationKey": "server.npcRoles.Rat.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768407780438,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Larva_Void",
-      "TranslationKey": "server.npcRoles.Larva_Void.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768409911445,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Eye_Void",
-      "TranslationKey": "server.npcRoles.Eye_Void.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768410031135,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Owl_Brown",
-      "TranslationKey": "server.npcRoles.Owl_Brown.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768417223191,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Trork_Shaman",
-      "TranslationKey": "server.npcRoles.Trork_Shaman.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768462363994,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Kweebec_Sapling",
-      "TranslationKey": "server.npcRoles.Kweebec_Sapling.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768397253466,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Cow",
-      "TranslationKey": "server.npcRoles.Cow.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768460474181,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Skeleton_Archer",
-      "TranslationKey": "server.npcRoles.Skeleton_Archer.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768459650567,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Spider",
-      "TranslationKey": "server.npcRoles.Spider.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768402330748,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Mouse",
-      "TranslationKey": "server.npcRoles.Mouse.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768402289791,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Minnow",
-      "TranslationKey": "server.npcRoles.Minnow.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768397268177,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Tang_Sailfin",
-      "TranslationKey": "server.npcRoles.Tang_Sailfin.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768459267286,
-      "FoundLocationNameKey": "server.map.region.Zone1_Shore"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Skeleton_Scout",
-      "TranslationKey": "server.npcRoles.Skeleton_Scout.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768402578967,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Trork_Mauler",
-      "TranslationKey": "server.npcRoles.Trork_Mauler.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768458299809,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Lizard_Sand",
-      "TranslationKey": "server.npcRoles.Lizard_Sand.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768407933657,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
     },
     {
       "Id": "NPC",
       "NPCRole": "Hound_Bleached",
       "TranslationKey": "server.npcRoles.Hound_Bleached.name",
-      "IsMemoriesNameOverridden": false,
       "CapturedTimestamp": 1768460805531,
       "FoundLocationNameKey": "server.map.region.Zone4_Shore_Tier5"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Bat",
-      "TranslationKey": "server.npcRoles.Bat.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403194477,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Crawler_Void",
-      "TranslationKey": "server.npcRoles.Crawler_Void.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768410031001,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Spawn_Void",
-      "TranslationKey": "server.npcRoles.Spawn_Void.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403072433,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Duck",
-      "TranslationKey": "server.npcRoles.Duck.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768397262777,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Boar",
-      "TranslationKey": "server.npcRoles.Boar.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403211140,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Chicken_Chick",
-      "TranslationKey": "server.npcRoles.Chicken_Chick.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768402515657,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Hawk",
-      "TranslationKey": "server.npcRoles.Hawk.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1769044398554,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Skeleton_Mage",
-      "TranslationKey": "server.npcRoles.Skeleton_Mage.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1769044716791,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Lobster",
-      "TranslationKey": "server.npcRoles.Lobster.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768459303088,
-      "FoundLocationNameKey": "server.map.region.Zone1_Shore"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Bunny",
-      "TranslationKey": "server.npcRoles.Bunny.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768397262744,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Tiger_Sabertooth",
-      "TranslationKey": "server.npcRoles.Tiger_Sabertooth.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403389914,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
-    },
-    {
-      "Id": "NPC",
       "NPCRole": "Boar_Piglet",
       "TranslationKey": "server.npcRoles.Boar_Piglet.name",
-      "IsMemoriesNameOverridden": false,
       "CapturedTimestamp": 1768403209954,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Goblin_Scrapper",
-      "TranslationKey": "server.npcRoles.Goblin_Scrapper.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768457426815,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Turkey",
-      "TranslationKey": "server.npcRoles.Turkey.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768410322772,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Wolf_Black",
-      "TranslationKey": "server.npcRoles.Wolf_Black.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768402992925,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Catfish",
-      "TranslationKey": "server.npcRoles.Catfish.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768411123912,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Tortoise",
-      "TranslationKey": "server.npcRoles.Tortoise.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403373173,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Skeleton_Burnt_Praetorian",
-      "TranslationKey": "server.npcRoles.Skeleton_Burnt_Praetorian.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768402071668,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Sheep",
-      "TranslationKey": "server.npcRoles.Sheep.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768456784245,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Skeleton_Soldier",
-      "TranslationKey": "server.npcRoles.Skeleton_Soldier.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768403147141,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Skrill",
-      "TranslationKey": "server.npcRoles.Skrill.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403519022,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Woodpecker",
-      "TranslationKey": "server.npcRoles.Woodpecker.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768639999423,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Trout_Rainbow",
-      "TranslationKey": "server.npcRoles.Trout_Rainbow.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768410102708,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Bluegill",
-      "TranslationKey": "server.npcRoles.Bluegill.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768455957389,
-      "FoundLocationNameKey": "server.map.region.Zone1_Temple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Scarak_Louse",
-      "TranslationKey": "server.npcRoles.Scarak_Louse.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768408174713,
+      "NPCRole": "Rat",
+      "TranslationKey": "server.npcRoles.Rat.name",
+      "CapturedTimestamp": 1768407780438,
       "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Armadillo",
-      "TranslationKey": "server.npcRoles.Armadillo.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768411621535,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Snake_Rattle",
-      "TranslationKey": "server.npcRoles.Snake_Rattle.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768404347317,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Larva_Silk",
-      "TranslationKey": "server.npcRoles.Larva_Silk.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768457179740,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Trork_Brawler",
-      "TranslationKey": "server.npcRoles.Trork_Brawler.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1769044574852,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Chicken_Undead",
-      "TranslationKey": "server.npcRoles.Chicken_Undead.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768461325201,
-      "FoundLocationNameKey": "server.map.region.Zone4_Tier5"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Cow_Calf",
-      "TranslationKey": "server.npcRoles.Cow_Calf.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768456150904,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Pig",
-      "TranslationKey": "server.npcRoles.Pig.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768403054782,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Scarak_Seeker",
-      "TranslationKey": "server.npcRoles.Scarak_Seeker.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768403483332,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Pufferfish",
-      "TranslationKey": "server.npcRoles.Pufferfish.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768460749362,
-      "FoundLocationNameKey": "server.map.region.Zone4_Shore_Tier5"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Mosshorn",
-      "TranslationKey": "server.npcRoles.Mosshorn.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768403098097,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Fen_Stalker",
-      "TranslationKey": "server.npcRoles.Fen_Stalker.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768456215844,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Squirrel",
-      "TranslationKey": "server.npcRoles.Squirrel.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768411374610,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Crab",
-      "TranslationKey": "server.npcRoles.Crab.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768402666927,
-      "FoundLocationNameKey": "server.map.region.Zone1_Shore"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Bear_Grizzly",
-      "TranslationKey": "server.npcRoles.Bear_Grizzly.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768411588864,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Rabbit",
-      "TranslationKey": "server.npcRoles.Rabbit.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403011478,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Molerat",
-      "TranslationKey": "server.npcRoles.Molerat.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768460399110,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Goblin_Miner",
-      "TranslationKey": "server.npcRoles.Goblin_Miner.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768460395277,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Deer_Stag",
-      "TranslationKey": "server.npcRoles.Deer_Stag.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768397256133,
+      "NPCRole": "Owl_Brown",
+      "TranslationKey": "server.npcRoles.Owl_Brown.name",
+      "CapturedTimestamp": 1768417223191,
       "FoundLocationNameKey": "server.map.region.ForgottenTemple"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Golem_Crystal_Earth",
-      "TranslationKey": "server.npcRoles.Golem_Crystal_Earth.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768410342963,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Chicken",
-      "TranslationKey": "server.npcRoles.Chicken.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768402515323,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Pig_Piglet",
-      "TranslationKey": "server.npcRoles.Pig_Piglet.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768403056214,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Fox",
-      "TranslationKey": "server.npcRoles.Fox.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768457905284,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Whale_Humpback",
-      "TranslationKey": "server.npcRoles.Whale_Humpback.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768460722361,
-      "FoundLocationNameKey": "server.map.region.Oceans"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Horse",
-      "TranslationKey": "server.npcRoles.Horse.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768457925118,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Scarak_Fighter",
-      "TranslationKey": "server.npcRoles.Scarak_Fighter.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768403522851,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Hyena",
-      "TranslationKey": "server.npcRoles.Hyena.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768403830300,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+      "NPCRole": "Scorpion",
+      "TranslationKey": "server.npcRoles.Scorpion.name",
+      "CapturedTimestamp": 1768408035496,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
     },
     {
       "Id": "NPC",
       "NPCRole": "Crow",
       "TranslationKey": "server.npcRoles.Crow.name",
-      "IsMemoriesNameOverridden": false,
       "CapturedTimestamp": 1768463672292,
       "FoundLocationNameKey": "server.map.region.Zone3_Tier1"
     },
@@ -604,137 +179,470 @@
       "Id": "NPC",
       "NPCRole": "Snake_Marsh",
       "TranslationKey": "server.npcRoles.Snake_Marsh.name",
-      "IsMemoriesNameOverridden": false,
       "CapturedTimestamp": 1768402777073,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Kweebec_Rootling",
-      "TranslationKey": "server.npcRoles.Kweebec_Rootling.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768397251267,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Sheep_Lamb",
-      "TranslationKey": "server.npcRoles.Sheep_Lamb.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768455994157,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Kweebec_Sproutling",
-      "TranslationKey": "server.npcRoles.Kweebec_Sproutling.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768464686580,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Camel",
-      "TranslationKey": "server.npcRoles.Camel.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768404447985,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Wolf_White",
-      "TranslationKey": "server.npcRoles.Wolf_White.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768462368062,
+      "NPCRole": "Goblin_Scrapper",
+      "TranslationKey": "server.npcRoles.Goblin_Scrapper.name",
+      "CapturedTimestamp": 1768457426815,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Skeleton_Sand_Assassin",
-      "TranslationKey": "server.npcRoles.Skeleton_Sand_Assassin.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768408377747,
+      "NPCRole": "Hawk",
+      "TranslationKey": "server.npcRoles.Hawk.name",
+      "CapturedTimestamp": 1769044398554,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Soldier",
+      "TranslationKey": "server.npcRoles.Skeleton_Soldier.name",
+      "CapturedTimestamp": 1768403147141,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Scarak_Louse",
+      "TranslationKey": "server.npcRoles.Scarak_Louse.name",
+      "CapturedTimestamp": 1768408174713,
       "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Turkey_Chick",
-      "TranslationKey": "server.npcRoles.Turkey_Chick.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768410322905,
-      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+      "NPCRole": "Skrill",
+      "TranslationKey": "server.npcRoles.Skrill.name",
+      "CapturedTimestamp": 1768403519022,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Burnt_Soldier",
+      "TranslationKey": "server.npcRoles.Skeleton_Burnt_Soldier.name",
+      "CapturedTimestamp": 1768402200091,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Spawn_Void",
+      "TranslationKey": "server.npcRoles.Spawn_Void.name",
+      "CapturedTimestamp": 1768403072433,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Deer_Stag",
+      "TranslationKey": "server.npcRoles.Deer_Stag.name",
+      "CapturedTimestamp": 1768397256133,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Chicken",
+      "TranslationKey": "server.npcRoles.Chicken.name",
+      "CapturedTimestamp": 1768402515323,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Scarak_Fighter",
+      "TranslationKey": "server.npcRoles.Scarak_Fighter.name",
+      "CapturedTimestamp": 1768403522851,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Tortoise",
+      "TranslationKey": "server.npcRoles.Tortoise.name",
+      "CapturedTimestamp": 1768403373173,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Squirrel",
+      "TranslationKey": "server.npcRoles.Squirrel.name",
+      "CapturedTimestamp": 1768411374610,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Armadillo",
+      "TranslationKey": "server.npcRoles.Armadillo.name",
+      "CapturedTimestamp": 1768411621535,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Larva_Void",
+      "TranslationKey": "server.npcRoles.Larva_Void.name",
+      "CapturedTimestamp": 1768409911445,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Meerkat",
+      "TranslationKey": "server.npcRoles.Meerkat.name",
+      "CapturedTimestamp": 1768403381083,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier1"
     },
     {
       "Id": "NPC",
       "NPCRole": "Frog_Green",
       "TranslationKey": "server.npcRoles.Frog_Green.name",
-      "IsMemoriesNameOverridden": true,
       "CapturedTimestamp": 1768397250899,
       "FoundLocationNameKey": "server.map.region.ForgottenTemple"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Scorpion",
-      "TranslationKey": "server.npcRoles.Scorpion.name",
-      "IsMemoriesNameOverridden": false,
-      "CapturedTimestamp": 1768408035496,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
+      "NPCRole": "Fen_Stalker",
+      "TranslationKey": "server.npcRoles.Fen_Stalker.name",
+      "CapturedTimestamp": 1768456215844,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Scout",
+      "TranslationKey": "server.npcRoles.Skeleton_Scout.name",
+      "CapturedTimestamp": 1768402578967,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Hyena",
+      "TranslationKey": "server.npcRoles.Hyena.name",
+      "CapturedTimestamp": 1768403830300,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Trork_Shaman",
+      "TranslationKey": "server.npcRoles.Trork_Shaman.name",
+      "CapturedTimestamp": 1768462363994,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Rabbit",
+      "TranslationKey": "server.npcRoles.Rabbit.name",
+      "CapturedTimestamp": 1768403011478,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Sheep_Lamb",
+      "TranslationKey": "server.npcRoles.Sheep_Lamb.name",
+      "CapturedTimestamp": 1768455994157,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Fox",
+      "TranslationKey": "server.npcRoles.Fox.name",
+      "CapturedTimestamp": 1768457905284,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Turkey",
+      "TranslationKey": "server.npcRoles.Turkey.name",
+      "CapturedTimestamp": 1768410322772,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Golem_Crystal_Earth",
+      "TranslationKey": "server.npcRoles.Golem_Crystal_Earth.name",
+      "CapturedTimestamp": 1768410342963,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Mosshorn",
+      "TranslationKey": "server.npcRoles.Mosshorn.name",
+      "CapturedTimestamp": 1768403098097,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Pig_Piglet",
+      "TranslationKey": "server.npcRoles.Pig_Piglet.name",
+      "CapturedTimestamp": 1768403056214,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Chicken_Undead",
+      "TranslationKey": "server.npcRoles.Chicken_Undead.name",
+      "CapturedTimestamp": 1768461325201,
+      "FoundLocationNameKey": "server.map.region.Zone4_Tier5"
     },
     {
       "Id": "NPC",
       "NPCRole": "Skeleton_Burnt_Archer",
       "TranslationKey": "server.npcRoles.Skeleton_Burnt_Archer.name",
-      "IsMemoriesNameOverridden": true,
       "CapturedTimestamp": 1769045044496,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Finch_Green",
-      "TranslationKey": "server.npcRoles.Finch_Green.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768417215491,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Bluebird",
-      "TranslationKey": "server.npcRoles.Bluebird.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768417220758,
-      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
-    },
-    {
-      "Id": "NPC",
-      "NPCRole": "Trork_Hunter",
-      "TranslationKey": "server.npcRoles.Trork_Hunter.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768462100748,
+      "NPCRole": "Molerat",
+      "TranslationKey": "server.npcRoles.Molerat.name",
+      "CapturedTimestamp": 1768460399110,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Mage",
+      "TranslationKey": "server.npcRoles.Skeleton_Mage.name",
+      "CapturedTimestamp": 1769044716791,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Whale_Humpback",
+      "TranslationKey": "server.npcRoles.Whale_Humpback.name",
+      "CapturedTimestamp": 1768460722361,
+      "FoundLocationNameKey": "server.map.region.Oceans"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Crawler_Void",
+      "TranslationKey": "server.npcRoles.Crawler_Void.name",
+      "CapturedTimestamp": 1768410031001,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Chicken_Chick",
+      "TranslationKey": "server.npcRoles.Chicken_Chick.name",
+      "CapturedTimestamp": 1768402515657,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Goblin_Miner",
+      "TranslationKey": "server.npcRoles.Goblin_Miner.name",
+      "CapturedTimestamp": 1768460395277,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Burnt_Praetorian",
+      "TranslationKey": "server.npcRoles.Skeleton_Burnt_Praetorian.name",
+      "CapturedTimestamp": 1768402071668,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Snake_Rattle",
+      "TranslationKey": "server.npcRoles.Snake_Rattle.name",
+      "CapturedTimestamp": 1768404347317,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Sand_Soldier",
+      "TranslationKey": "server.npcRoles.Skeleton_Sand_Soldier.name",
+      "CapturedTimestamp": 1768404219028,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Trork_Brawler",
+      "TranslationKey": "server.npcRoles.Trork_Brawler.name",
+      "CapturedTimestamp": 1769044574852,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
     },
     {
       "Id": "NPC",
       "NPCRole": "Horse_Foal",
       "TranslationKey": "server.npcRoles.Horse_Foal.name",
-      "IsMemoriesNameOverridden": false,
       "CapturedTimestamp": 1768456107933,
       "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
     },
     {
       "Id": "NPC",
-      "NPCRole": "Skeleton_Sand_Ranger",
-      "TranslationKey": "server.npcRoles.Skeleton_Sand_Ranger.name",
-      "IsMemoriesNameOverridden": true,
-      "CapturedTimestamp": 1768404219428,
-      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+      "NPCRole": "Crab",
+      "TranslationKey": "server.npcRoles.Crab.name",
+      "CapturedTimestamp": 1768402666927,
+      "FoundLocationNameKey": "server.map.region.Zone1_Shore"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Trork_Hunter",
+      "TranslationKey": "server.npcRoles.Trork_Hunter.name",
+      "CapturedTimestamp": 1768462100748,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Bat",
+      "TranslationKey": "server.npcRoles.Bat.name",
+      "CapturedTimestamp": 1768403194477,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Pufferfish",
+      "TranslationKey": "server.npcRoles.Pufferfish.name",
+      "CapturedTimestamp": 1768460749362,
+      "FoundLocationNameKey": "server.map.region.Zone4_Shore_Tier5"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Catfish",
+      "TranslationKey": "server.npcRoles.Catfish.name",
+      "CapturedTimestamp": 1768411123912,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Turkey_Chick",
+      "TranslationKey": "server.npcRoles.Turkey_Chick.name",
+      "CapturedTimestamp": 1768410322905,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
     },
     {
       "Id": "NPC",
       "NPCRole": "Deer_Doe",
       "TranslationKey": "server.npcRoles.Deer_Doe.name",
-      "IsMemoriesNameOverridden": true,
       "CapturedTimestamp": 1768397257266,
       "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Sheep",
+      "TranslationKey": "server.npcRoles.Sheep.name",
+      "CapturedTimestamp": 1768456784245,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Tang_Sailfin",
+      "TranslationKey": "server.npcRoles.Tang_Sailfin.name",
+      "CapturedTimestamp": 1768459267286,
+      "FoundLocationNameKey": "server.map.region.Zone1_Shore"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Eye_Void",
+      "TranslationKey": "server.npcRoles.Eye_Void.name",
+      "CapturedTimestamp": 1768410031135,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Boar",
+      "TranslationKey": "server.npcRoles.Boar.name",
+      "CapturedTimestamp": 1768403211140,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Cow_Calf",
+      "TranslationKey": "server.npcRoles.Cow_Calf.name",
+      "CapturedTimestamp": 1768456150904,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Trout_Rainbow",
+      "TranslationKey": "server.npcRoles.Trout_Rainbow.name",
+      "CapturedTimestamp": 1768410102708,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Larva_Silk",
+      "TranslationKey": "server.npcRoles.Larva_Silk.name",
+      "CapturedTimestamp": 1768457179740,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Kweebec_Seedling",
+      "TranslationKey": "server.npcRoles.Kweebec_Seedling.name",
+      "CapturedTimestamp": 1768397233158,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Kweebec_Rootling",
+      "TranslationKey": "server.npcRoles.Kweebec_Rootling.name",
+      "CapturedTimestamp": 1768397251267,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Duck",
+      "TranslationKey": "server.npcRoles.Duck.name",
+      "CapturedTimestamp": 1768397262777,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Bear_Grizzly",
+      "TranslationKey": "server.npcRoles.Bear_Grizzly.name",
+      "CapturedTimestamp": 1768411588864,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Bluegill",
+      "TranslationKey": "server.npcRoles.Bluegill.name",
+      "CapturedTimestamp": 1768455957389,
+      "FoundLocationNameKey": "server.map.region.Zone1_Temple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Sand_Assassin",
+      "TranslationKey": "server.npcRoles.Skeleton_Sand_Assassin.name",
+      "CapturedTimestamp": 1768408377747,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Kweebec_Sproutling",
+      "TranslationKey": "server.npcRoles.Kweebec_Sproutling.name",
+      "CapturedTimestamp": 1768464686580,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Cow",
+      "TranslationKey": "server.npcRoles.Cow.name",
+      "CapturedTimestamp": 1768460474181,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Camel",
+      "TranslationKey": "server.npcRoles.Camel.name",
+      "CapturedTimestamp": 1768404447985,
+      "FoundLocationNameKey": "server.map.region.Zone2_Tier3"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Skeleton_Archer",
+      "TranslationKey": "server.npcRoles.Skeleton_Archer.name",
+      "CapturedTimestamp": 1768459650567,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Pig",
+      "TranslationKey": "server.npcRoles.Pig.name",
+      "CapturedTimestamp": 1768403054782,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier1"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Wolf_White",
+      "TranslationKey": "server.npcRoles.Wolf_White.name",
+      "CapturedTimestamp": 1768462368062,
+      "FoundLocationNameKey": "server.map.region.Zone1_Tier2"
     }
   ]
 }

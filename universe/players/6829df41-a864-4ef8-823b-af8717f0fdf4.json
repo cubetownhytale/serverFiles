@@ -20,13 +20,13 @@
     "UIComponentList": {},
     "Transform": {
       "Position": {
-        "X": -214.6710968017578,
-        "Y": 123.0000991821289,
-        "Z": 254.8614501953125
+        "X": -213.52688598632812,
+        "Y": 123.0,
+        "Z": 255.5115966796875
       },
       "Rotation": {
         "Pitch": 0.0,
-        "Yaw": -6.921576023101807,
+        "Yaw": 11.181593894958496,
         "Roll": 0.0
       }
     },
@@ -114,8 +114,8 @@
           "Capacity": 36,
           "Items": {
             "0": {
-              "Id": "Ingredient_Tree_Sap",
-              "Quantity": 50,
+              "Id": "Ingredient_Stick",
+              "Quantity": 49,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -136,42 +136,42 @@
             },
             "4": {
               "Id": "Ingredient_Fibre",
-              "Quantity": 67,
+              "Quantity": 49,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "8": {
-              "Id": "Ingredient_Stick",
-              "Quantity": 86,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
+              "Id": "Tool_Pickaxe_Copper",
+              "Quantity": 1,
+              "Durability": 200.0,
+              "MaxDurability": 200.0,
               "OverrideDroppedItemAnimation": false
             },
             "9": {
-              "Id": "Rubble_Stone",
-              "Quantity": 7,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
+              "Id": "Tool_Pickaxe_Crude",
+              "Quantity": 1,
+              "Durability": 48.75,
+              "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
             "1": {
               "Id": "Weapon_Arrow_Crude",
-              "Quantity": 69,
+              "Quantity": 63,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
               "Id": "Rubble_Stone",
-              "Quantity": 100,
+              "Quantity": 50,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "7": {
               "Id": "Tool_Repair_Kit_Iron",
-              "Quantity": 1,
+              "Quantity": 3,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -224,10 +224,10 @@
           "Capacity": 9,
           "Items": {
             "0": {
-              "Id": "Tool_Pickaxe_Crude",
+              "Id": "Tool_Pickaxe_Copper",
               "Quantity": 1,
-              "Durability": 78.25,
-              "MaxDurability": 150.0,
+              "Durability": 73.25,
+              "MaxDurability": 200.0,
               "OverrideDroppedItemAnimation": false
             },
             "2": {
@@ -238,7 +238,7 @@
               "OverrideDroppedItemAnimation": false
             },
             "6": {
-              "Id": "Plant_Fruit_Berries_Red",
+              "Id": "Tool_Shears_Basic",
               "Quantity": 1,
               "Durability": 0.0,
               "MaxDurability": 0.0,
@@ -246,14 +246,14 @@
             },
             "4": {
               "Id": "Soil_Dirt",
-              "Quantity": 92,
+              "Quantity": 53,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
             },
             "8": {
               "Id": "Furniture_Crude_Torch",
-              "Quantity": 75,
+              "Quantity": 90,
               "Durability": 0.0,
               "MaxDurability": 0.0,
               "OverrideDroppedItemAnimation": false
@@ -261,14 +261,14 @@
             "1": {
               "Id": "Tool_Hatchet_Crude",
               "Quantity": 1,
-              "Durability": 70.25,
+              "Durability": 58.25,
               "MaxDurability": 150.0,
               "OverrideDroppedItemAnimation": false
             },
             "3": {
               "Id": "Tool_Shovel_Iron",
               "Quantity": 1,
-              "Durability": 234.79999999999654,
+              "Durability": 223.39999999999395,
               "MaxDurability": 250.0,
               "OverrideDroppedItemAnimation": false
             },
@@ -282,7 +282,7 @@
             "5": {
               "Id": "Weapon_Crossbow_Iron",
               "Quantity": 1,
-              "Durability": 84.4799999999999,
+              "Durability": 82.7999999999999,
               "MaxDurability": 108.0,
               "OverrideDroppedItemAnimation": false
             }
@@ -304,22 +304,7 @@
         "Backpack": {
           "Id": "Simple",
           "Capacity": 9,
-          "Items": {
-            "0": {
-              "Id": "Ingredient_Hide_Medium",
-              "Quantity": 2,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            },
-            "1": {
-              "Id": "Food_Wildmeat_Raw",
-              "Quantity": 1,
-              "Durability": 0.0,
-              "MaxDurability": 0.0,
-              "OverrideDroppedItemAnimation": false
-            }
-          }
+          "Items": {}
         },
         "ActiveHotbarSlot": 0,
         "Tool": {
@@ -371,7 +356,7 @@
           }
         },
         "ActiveToolsSlot": -1,
-        "ActiveUtilitySlot": 0,
+        "ActiveUtilitySlot": -1,
         "SortType": "Type"
       },
       "PlayerData": {
@@ -381,11 +366,11 @@
         "PerWorldData": {
           "default": {
             "LastPosition": {
-              "X": -214.6710968017578,
-              "Y": 123.0000991821289,
-              "Z": 254.8614501953125,
-              "Pitch": -0.5002824664115906,
-              "Yaw": 0.11147771775722504,
+              "X": -213.52688598632812,
+              "Y": 123.0,
+              "Z": 255.5115966796875,
+              "Pitch": -0.36595138907432556,
+              "Yaw": -1.3846676349639893,
               "Roll": 0.0
             },
             "LastMovementStates": {
@@ -546,8 +531,8 @@
     },
     "HeadRotation": {
       "Rotation": {
-        "Pitch": -0.5002824664115906,
-        "Yaw": 0.11147771775722504,
+        "Pitch": -0.36595138907432556,
+        "Yaw": -1.3846676349639893,
         "Roll": 0.0
       }
     }
